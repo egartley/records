@@ -15,34 +15,20 @@ class Song:
         self.supreme = supreme
         self.unquotedtitle = title.replace("\"", "")
 
+def get_series_nav_html():
+    content = ""
+    lastseries = ""
+    i = 0
+    for song in song_list:
+        if not song.series == lastseries:
+            lastseries = song.series
+            content += "<a href=\"#qn-s" + str(i) + "\">" + song.series.replace("Bra?", "Bra&#9733;") + "</a><br>\n"
+            i += 1
+    return content
 
-def get_quicknav_html():
-    start = "<h2>Quick Navigation</h2>\n<p>\n"
-    end = "</p>\n"
-    links = "<a class=\"qn-link\" href=\"#qn-num\">#</a>\n"
-    for letter in alphabet:
-        links += "<a class=\"qn-link\" href=\"#qn-" + letter + "\">" + letter.upper() + "</a>\n"
-    return start + links + end
-
-def get_quicknav_anchor(letter):
-    return "<span id=\"qn-" + letter + "\"></span>"
-
-def get_listing_html(song):
-    start = "<div class=\"songcard flex col\">"
-    content = "<span class=\"songcard-title flex\">" + song.title.replace("Bra?", "Bra&#9733;")
-    content += "<span class=\"songcard-" + song.songtype.lower() + "\">" + song.songtype + "</span>"
-    content += "</span><span class=\"songcard-series\">" + song.series.replace("Bra?", "Bra&#9733;") + "</span><div class=\"songcard-scores flex\">"
-    content += "<span class=\"songcard-beginner\">" + str(song.beginner) + "</span><span class=\"songcard-expert\">" + str(song.expert) + "</span>"
-    content += "<span class=\"songcard-ultimate\">" + str(song.ultimate) + "</span>"
-    if not song.supreme == -1:
-        content += "<span class=\"songcard-supreme\">" + str(song.supreme) + "</span>"
-    content += "</div>"
-    end = "</div>\n"
-    return start + content + end
-
-
-alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
-            "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+last_series = ""
+series_index = 0
+song_list = []
 datestring = datetime.today().strftime("%B %e, %Y at %I:%M %p")
 if "at 0" in datestring:
     datestring = datestring.replace("at 0", "at ")
@@ -54,12 +40,7 @@ signaturehtml += "<p>These are my current scores in the game <i>Theatrhythm Fina
 signaturehtml += "has the score listed for the three difficulties along with the stage type next to the title. For the most part, the "
 signaturehtml += "awkward capitialization and formatting of the titles has been perserved from the game, except for "
 signaturehtml += "titles that have the series name prepended to them (mainly the FFVII Remake songs). None of the DLC songs are included.</p>\n"
-listinghtml = "<div class=\"songcard-container flex col\">\n" + get_quicknav_anchor("#") + "\n"
-
-alphabet_index = 0
-lastletter = ""
-nummode = True
-song_list = []
+listinghtml = "<div class=\"songcard-container flex col\">\n"
 
 # build list from csv
 with open("tfbl-scores.csv", mode="r") as tfblcsv:   
@@ -72,36 +53,34 @@ with open("tfbl-scores.csv", mode="r") as tfblcsv:
       song = Song(int(gl[0]), str(gl[3]), str(gl[2]), str(gl[1]), int(gl[4]), int(gl[5]), int(gl[6]), int(gl[7]) if not str(gl[7]) == "-" else -1)
       song_list.append(song)
 
-# sort alphabetically by title
-song_list = sorted(song_list, key=lambda song: song.unquotedtitle)
-
-# build non-listing html
-quicknavhtml = get_quicknav_html()
+# build navigate by series html
+oldlh = listinghtml
+prepend = "<span><h2 style=\"display:inline\">Navigate by Series</h2><span class=\"showhide\" "
+prepend += "onclick=\"p=$('p#navseries');t=$(this);if(p.is(':visible')){p.slideUp();t.html('Show')}else{p.slide"
+prepend += "Down();t.html('Hide')}\">Hide</span></span>\n<p id=\"navseries\">" + get_series_nav_html() + "\n"
+listinghtml = prepend + oldlh
 
 # build listing html
 for song in song_list:
-    lastletter = song.unquotedtitle[0:1].upper()
-    # check if finished with numbered titles
-    if nummode and lastletter.isalpha():
-        # finished with numbered titles, output quick link nav for A
-        nummode = False
-        listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
-    if not nummode:
-        while not alphabet[alphabet_index].upper() == lastletter:
-            # output quick nav link for the new letter
-            alphabet_index += 1
-            listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
-    # proceed with regular listing html for current game
-    listinghtml += get_listing_html(song)
-
-# add remaining quick nav links
-while alphabet_index < len(alphabet) - 1:
-    alphabet_index += 1
-    listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
+    start = "<div class=\"songcard flex col\">"
+    if not last_series == song.series:
+        last_series = song.series
+        start += "<span class=\"qn-link\" id=\"qn-s" + str(series_index) + "\"></span>"
+        series_index += 1
+    content = "<span class=\"songcard-title flex\">" + song.title.replace("Bra?", "Bra&#9733;")
+    content += "<span class=\"songcard-" + song.songtype.lower() + "\">" + song.songtype + "</span>"
+    content += "</span><span class=\"songcard-series\">" + song.series.replace("Bra?", "Bra&#9733;") + "</span><div class=\"songcard-scores flex\">"
+    content += "<span class=\"songcard-beginner\">" + str(song.beginner) + "</span><span class=\"songcard-expert\">" + str(song.expert) + "</span>"
+    content += "<span class=\"songcard-ultimate\">" + str(song.ultimate) + "</span>"
+    if not song.supreme == -1:
+        content += "<span class=\"songcard-supreme\">" + str(song.supreme) + "</span>"
+    content += "</div>"
+    end = "</div>\n"
+    listinghtml += start + content + end
 listinghtml += "</div>\n"
 
 # output file
 with open("tfbl-scores.html", mode="w") as outfile:
-    outfile.write(pageheader + signaturehtml + quicknavhtml + listinghtml)
+    outfile.write(pageheader + signaturehtml + listinghtml)
 
 print("Done!")
