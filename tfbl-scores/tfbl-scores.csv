@@ -6,12 +6,12 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 5,Final Fantasy,Opening Theme,FMS,9919414,9938326,9490209,-
 6,Final Fantasy,Matoya's Cave,FMS,9927273,9821656,9581891,-
 7,Final Fantasy,Miniboss Battle,BMS,9855814,9831897,8900982,0
-8,Final Fantasy,Mt. Gulg,FMS,9858824,9475572,9397247,0
+8,Final Fantasy,Mt. Gulg,FMS,9858824,9917254,9397247,0
 9,Final Fantasy,Airship,FMS,9825000,9712617,9858639,-
 10,Final Fantasy,Sunken Shrine,FMS,9820144,9748780,9549709,-
 11,Final Fantasy,Final Battle,BMS,9720745,9725515,8772958,0
-12,Final Fantasy II,The Rebel Army,EMS,9607527,9731579,8731056,-
-13,Final Fantasy II,Battle Theme 1,BMS,9628499,9605087,9199142,0
+12,Final Fantasy II,The Rebel Army,EMS,9943548,9731579,8731056,-
+13,Final Fantasy II,Battle Theme 1,BMS,9982188,9856760,9199142,0
 14,Final Fantasy II,The Rebel Army,BMS,9774510,9733205,9317114,-
 15,Final Fantasy II,Town,FMS,9688372,9963068,9788785,-
 16,Final Fantasy II,Main Theme,FMS,9983193,9769602,9881306,-
@@ -19,14 +19,14 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 18,Final Fantasy II,The Imperial Army,FMS,9749077,9897826,9523940,-
 19,Final Fantasy II,Chocobo Theme,FMS,9852792,9709375,8876956,-
 20,Final Fantasy II,Tower of  the Magi,FMS,9849650,9811111,9662483,0
-21,Final Fantasy II,Battle Theme A,BMS,9764172,9487830,8625964,0
+21,Final Fantasy II,Battle Theme A,BMS,9764172,9926287,8625964,0
 22,Final Fantasy II,Battle Theme 2,BMS,9890110,9823472,8698658,0
-23,Final Fantasy II,Finale,FMS,9614583,9901695,9806350,-
+23,Final Fantasy II,Finale,FMS,9921569,9901695,9806350,-
 24,Final Fantasy III,"Elia, the Maiden of Water",EMS,9764463,9797654,9761446,-
 25,Final Fantasy III,Crystal Cave,FMS,9799180,9767123,9832645,-
-26,Final Fantasy III,Battle 1,BMS,9895141,9651020,9257743,0
+26,Final Fantasy III,Battle 1,BMS,9895141,9946554,9257743,0
 27,Final Fantasy III,Eternal Wind,FMS,9907692,9865510,9601425,0
-28,Final Fantasy III,The Boundless Ocean,FMS,9642077,9897030,9704811,-
+28,Final Fantasy III,The Boundless Ocean,FMS,9918033,9897030,9704811,-
 29,Final Fantasy III,"Elia, the Maiden of Water",FMS,9788462,9874608,9928571,-
 30,Final Fantasy III,Salonia,FMS,9790262,9973684,9300137,-
 31,Final Fantasy III,Let Me Know the Truth,FMS,9689420,9914657,9157978,-
@@ -36,25 +36,25 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 35,Final Fantasy III,Battle 2,BMS,9806452,9836420,8822130,0
 36,Final Fantasy III,The Dark Crystals,FMS,9927374,9735974,8837942,-
 37,Final Fantasy III,This is the Last Battle,BMS,9859857,9841195,9659445,0
-38,Final Fantasy IV,Theme of Love,EMS,9713147,9539474,9454396,-
+38,Final Fantasy IV,Theme of Love,EMS,9713147,9915789,9454396,-
 39,Final Fantasy IV,The Red Wings,FMS,9845570,9931638,9443951,-
 40,Final Fantasy IV,Theme of Love,FMS,9862974,9949597,9167560,-
 41,Final Fantasy IV,Main Theme of Final Fantasy IV,FMS,9839695,9813648,9797006,-
 42,Final Fantasy IV,Battle 1,BMS,9883978,9861436,8943876,0
-43,Final Fantasy IV,The Airship,FMS,9868852,9485628,9084727,-
+43,Final Fantasy IV,The Airship,FMS,9868852,9967914,9084727,-
 44,Final Fantasy IV,Troian Beauty,FMS,9817797,9893182,9866432,-
 45,Final Fantasy IV,Tower of Zot,FMS,9882698,9906716,9307052,-
 46,Final Fantasy IV,Within the Giant,FMS,9911032,9911591,9601744,-
-47,Final Fantasy IV,Battle 2,BMS,9661654,9883152,8552407,0
+47,Final Fantasy IV,Battle 2,BMS,9952381,9883152,8552407,0
 48,Final Fantasy IV,Battle with the Four Fiends,BMS,9772222,9727273,8603961,0
 49,Final Fantasy IV,Lunar Whale,FMS,9986900,9958084,9917411,0
 50,Final Fantasy IV,Another Moon,FMS,9947170,9944444,9820368,-
 51,Final Fantasy IV,The Final Battle,BMS,9843648,9831597,9333748,0
 52,Final Fantasy V,"Home, sweet Home",EMS,9844720,9914343,9918874,-
 53,Final Fantasy V,Main Theme of Final Fantasy V,BMS,9925743,9849829,9395451,-
-54,Final Fantasy V,Four Hearts,FMS,9659649,9967603,8575842,0
+54,Final Fantasy V,Four Hearts,FMS,9982456,9967603,9795276,0
 55,Final Fantasy V,Battle 1,BMS,9711957,9927476,8675664,0
-56,Final Fantasy V,Harvest,FMS,9663328,9803971,9351807,0
+56,Final Fantasy V,Harvest,FMS,9972125,9803971,9351807,0
 57,Final Fantasy V,To the North Mountain,FMS,9981413,9931624,9693906,-
 58,Final Fantasy V,Library of the Ancients,FMS,9857955,9844007,9494076,-
 59,Final Fantasy V,Mambo de Chocobo,FMS,9948925,9846801,9583439,0
@@ -62,58 +62,58 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 61,Final Fantasy V,The Airship,FMS,9726073,9880567,9707317,-
 62,Final Fantasy V,Battle 2,BMS,9815584,9897397,8936170,0
 63,Final Fantasy V,The Dawn Warriors,BMS,9864935,9781587,9167999,-
-64,Final Fantasy V,Battle at the Big Bridge,BMS,9830303,9613960,9305502,0
+64,Final Fantasy V,Battle at the Big Bridge,BMS,9830303,9948718,9305502,0
 65,Final Fantasy V,A New World,FMS,9895706,9802444,9530090,-
 66,Final Fantasy V,In Search of Light,FMS,9921687,9945076,9022050,-
 67,Final Fantasy V,The Decisive Battle,BMS,9802000,9802632,8856276,0
-68,Final Fantasy V,The Final Battle,BMS,9655488,9588542,9132944,0
+68,Final Fantasy V,The Final Battle,BMS,9984756,9907986,9132944,0
 69,Final Fantasy VI,Celes's Theme,EMS,9666667,9895623,9846361,-
 70,Final Fantasy VI,Terra's Theme,FMS,9786517,9858672,9720113,-
 71,Final Fantasy VI,Battle,BMS,9775457,9838258,8763244,0
-72,Final Fantasy VI,Locke's Theme,BMS,9858382,9908184,8959209,-
+72,Final Fantasy VI,Locke's Theme,BMS,9858382,9908184,9614980,-
 73,Final Fantasy VI,Edgar & Sabin's Theme,FMS,9859060,9895928,9525909,0
 74,Final Fantasy VI,Protect the Espers!,BMS,9734328,9704673,9335352,0
 75,Final Fantasy VI,Grand Finale,BMS,9709970,9860941,9123532,0
 76,Final Fantasy VI,The Airship Blackjack,FMS,9770992,9790287,8929630,0
 77,Final Fantasy VI,The Decisive Battle,BMS,9883582,9729647,9148544,0
-78,Final Fantasy VI,Battle to the Death,BMS,9850446,9424411,9175644,0
-79,Final Fantasy VI,Celes's Theme,FMS,9725753,9923913,9601698,-
-80,Final Fantasy VI,Searching for Friends,FMS,9606426,9667683,9069555,-
+78,Final Fantasy VI,Battle to the Death,BMS,9850446,9843273,9298373,0
+79,Final Fantasy VI,Celes's Theme,FMS,9725753,9923913,9885915,-
+80,Final Fantasy VI,Searching for Friends,FMS,9963855,9972900,9759342,-
 81,Final Fantasy VI,Kefka's Tower,FMS,9798762,9847561,9496273,-
-82,Final Fantasy VI,Dancing Mad,BMS,9771429,9463305,9070544,0
-83,Final Fantasy VII,Aerith's Theme,EMS,9673152,9167742,9544365,-
+82,Final Fantasy VI,Dancing Mad,BMS,9771429,9899621,9070544,0
+83,Final Fantasy VII,Aerith's Theme,EMS,9673152,9738710,9544365,-
 84,Final Fantasy VII,Opening - Bombing Mission,BMS,9761194,9911458,8719511,0
 85,Final Fantasy VII,Let the Battles Begin!,BMS,9920792,9903268,9390319,0
 86,Final Fantasy VII,Fight On!,BMS,9916667,9938854,9032222,0
-87,Final Fantasy VII,The Chase,FMS,9792000,9697472,8651631,0
+87,Final Fantasy VII,The Chase,FMS,9792000,9697472,9355201,0
 88,Final Fantasy VII,Main Theme of Final Fantasy VII,FMS,9902834,9756831,9019229,-
 89,Final Fantasy VII,Rufus's Welcoming Ceremony,FMS,9782738,9880071,9324353,-
 90,Final Fantasy VII,Gold Saucer,FMS,9894904,9731855,8973005,0
-91,Final Fantasy VII,Cosmo Canyon,FMS,9966245,9591159,9590530,-
+91,Final Fantasy VII,Cosmo Canyon,FMS,9966245,9948780,9590530,-
 92,Final Fantasy VII,Aerith's Theme,BMS,9891892,9738636,8948742,-
 93,Final Fantasy VII,The Highwind Takes to the Skies,FMS,9815436,9870159,9212054,-
 94,Final Fantasy VII,Judgment Day,FMS,9916667,9841096,9160891,-
 95,Final Fantasy VII,JENOVA,BMS,9821656,9767068,9449485,0
 96,Final Fantasy VII,Birth of a God,BMS,9726496,9827199,8712736,0
 97,Final Fantasy VII,One-Winged Angel,BMS,9862004,9720571,8912112,0
-98,Final Fantasy VII Advent Children,Advent: One-Winged Angel,EMS,9605442,9760542,9508274,-
-99,Final Fantasy VII Advent Children,Beyond the Wasteland,BMS,9931765,9506454,9017363,-
+98,Final Fantasy VII Advent Children,Advent: One-Winged Angel,EMS,9843537,9760542,9508274,-
+99,Final Fantasy VII Advent Children,Beyond the Wasteland,BMS,9931765,9849182,9017363,-
 100,Final Fantasy VII Advent Children,Those Who Fight (Piano Version),BMS,9892308,9867824,8982088,-
 101,Final Fantasy VII Advent Children,Aerith's Theme (Piano Version),FMS,9937269,9787879,9859843,-
 102,Final Fantasy VII Advent Children,Battle in the Forgotten City,BMS,9738739,9739166,9350474,-
-103,Final Fantasy VII Advent Children,Divinity II,BMS,9851931,9616022,9008242,0
-104,Final Fantasy VII Advent Children,J-E-N-O-V-A (AC Version),BMS,9893528,9936726,8209450,-
+103,Final Fantasy VII Advent Children,Divinity II,BMS,9851931,9875691,9136855,0
+104,Final Fantasy VII Advent Children,J-E-N-O-V-A (AC Version),BMS,9893528,9936726,8855442,-
 105,Final Fantasy VII Advent Children,Advent: One-Winged Angel,BMS,9732824,9878221,9324204,0
 106,Final Fantasy VII Advent Children,Cloud Smiles,FMS,9756892,9857391,9497068,-
 107,Last Order: Final Fantasy VII,Last Order,BMS,9925581,9799572,9566190,-
-108,Crisis Core -Final Fantasy VII-,CRISIS CORE Theme - Succession,EMS,9766038,9384054,9447584,-
-109,Crisis Core -Final Fantasy VII-,Encounter,BMS,9898592,9140034,9142568,0
-110,Crisis Core -Final Fantasy VII-,Timely Ambush (from FFVII 'Let the Battles Begin!'),FMS,9895833,9595918,9065406,-
+108,Crisis Core -Final Fantasy VII-,CRISIS CORE Theme - Succession,EMS,9766038,9831776,9447584,-
+109,Crisis Core -Final Fantasy VII-,Encounter,BMS,9898592,9833978,9142568,0
+110,Crisis Core -Final Fantasy VII-,Timely Ambush (from FFVII 'Let the Battles Begin!'),FMS,9895833,9991837,9065406,-
 111,Crisis Core -Final Fantasy VII-,A Flower Blooming in the Slums (from FFVII 'Aerith's Theme'),FMS,9855172,9851220,9404009,-
-112,Crisis Core -Final Fantasy VII-,The SOLDIER Way,BMS,9774194,9679402,8556929,0
-113,Crisis Core -Final Fantasy VII-,The Price of Freedom,BMS,9705128,9328998,9285292,-
-114,Final Fantasy VII Remake,Hollow,EMS,9820253,9882353,9778966,-
-115,Final Fantasy VII Remake,Bombing Mission,BMS,9800745,9405885,9152143,-
+112,Crisis Core -Final Fantasy VII-,The SOLDIER Way,BMS,9774194,9679402,9387946,0
+113,Crisis Core -Final Fantasy VII-,The Price of Freedom,BMS,9705128,9784200,9285292,-
+114,Final Fantasy VII Remake,Hollow,EMS,9820253,9882353,9825312,-
+115,Final Fantasy VII Remake,Bombing Mission,BMS,9800745,9880978,9152143,-
 116,Final Fantasy VII Remake,Tifa's Theme - Seventh Heaven,FMS,9939024,9795147,9682861,-
 117,Final Fantasy VII Remake,Main Theme of FFVII - Sector 7 Undercity,FMS,9757219,9838446,8785648,-
 118,Final Fantasy VII Remake,Let the Battles Begin! - A Merc's Job,BMS,9803478,9743383,9014235,-
@@ -123,16 +123,16 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 122,Final Fantasy VII Remake,J-E-N-O-V-A - Quickening,BMS,9957295,9889081,9908595,0
 123,Final Fantasy VII Remake,Midgar Expressway,FMS,9723473,9946429,9684524,0
 124,Final Fantasy VII Remake,One-Winged Angel - Rebirth,BMS,9876872,9891101,9942412,0
-125,Final Fantasy VIII,Waltz for the Moon,EMS,9830097,9506609,9197700,-
+125,Final Fantasy VIII,Waltz for the Moon,EMS,9830097,9667674,9197700,-
 126,Final Fantasy VIII,Liberi Fatali,BMS,9781076,9816777,9014726,-
 127,Final Fantasy VIII,Balamb GARDEN,FMS,9844828,9702624,9877522,-
 128,Final Fantasy VIII,Blue Fields,FMS,9848592,9890160,9864379,-
-129,Final Fantasy VIII,Don't Be Afraid,BMS,9850900,9654577,9557674,0
+129,Final Fantasy VIII,Don't Be Afraid,BMS,9850900,9906736,9557674,0
 130,Final Fantasy VIII,Find Your Way,FMS,9950355,9878935,9963585,-
-131,Final Fantasy VIII,Force Your Way,BMS,9788770,9521589,8693803,0
+131,Final Fantasy VIII,Force Your Way,BMS,9788770,9962003,8693803,0
 132,Final Fantasy VIII,Shuffle or Boogie,BMS,9913043,9777989,9005121,0
 133,Final Fantasy VIII,Waltz for the Moon,FMS,9891738,9843034,9688320,-
-134,Final Fantasy VIII,The Man with the Machine Gun,BMS,9940217,9469722,8655746,0
+134,Final Fantasy VIII,The Man with the Machine Gun,BMS,9940217,9818331,8655746,0
 135,Final Fantasy VIII,Fisherman's Horizon,FMS,9931298,9895028,9911548,-
 136,Final Fantasy VIII,Love Grows,FMS,9845395,9860590,9942623,-
 137,Final Fantasy VIII,Ride On,FMS,9900875,9887833,9591283,-
@@ -142,86 +142,86 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 141,Final Fantasy VIII,Maybe I'm a Lion,BMS,9790393,9796129,8700959,0
 142,Final Fantasy VIII,The Extreme,BMS,9860262,9822892,9243045,0
 143,Final Fantasy VIII,Ending Theme,FMS,9734082,9812010,9293364,-
-144,Final Fantasy IX,Behind the Door,EMS,9617857,9547904,9513357,-
+144,Final Fantasy IX,Behind the Door,EMS,9617857,9700599,9513357,-
 145,Final Fantasy IX,A Place to Call Home,FMS,9888545,9889113,9356457,-
 146,Final Fantasy IX,Vivi's Theme,FMS,9945205,9891892,9803791,-
 147,Final Fantasy IX,Swords of Fury,BMS,9929504,9833333,9280211,-
 148,Final Fantasy IX,Vamo'alla flamenco,BMS,9929766,9815678,9031535,0
 149,Final Fantasy IX,Battle 1,BMS,9891667,9766506,9456469,0
 150,Final Fantasy IX,Over the Hill,FMS,9936567,9867769,9816600,-
-151,Final Fantasy IX,Festival of the Hunt,BMS,9848684,9517276,8837177,0
+151,Final Fantasy IX,Festival of the Hunt,BMS,9848684,9934959,8837177,0
 152,Final Fantasy IX,Dark City Treno,FMS,9899123,9889356,9804543,-
 153,Final Fantasy IX,Roses of May,FMS,9845697,9801858,9842437,-
 154,Final Fantasy IX,"Iifa, the Ancient Tree of Life",FMS,9723404,9755869,9023110,-
-155,Final Fantasy IX,Something to Protect,BMS,9870614,9698413,9494310,-
+155,Final Fantasy IX,Something to Protect,BMS,9870614,9868687,9494310,-
 156,Final Fantasy IX,Aboard the Hilda Garde,FMS,9875332,9905028,9715182,0
 157,Final Fantasy IX,Ipsen's Castle,FMS,9849624,9919771,9644094,-
 158,Final Fantasy IX,Not Alone,FMS,9796491,9925764,9811209,-
-159,Final Fantasy IX,Battle 2,BMS,9954436,9358733,8570465,-
-160,Final Fantasy IX,The Darkness of Eternity,BMS,9865702,9668252,8820129,-
+159,Final Fantasy IX,Battle 2,BMS,9954436,9839897,8570465,-
+160,Final Fantasy IX,The Darkness of Eternity,BMS,9865702,9876338,8820129,-
 161,Final Fantasy IX,The Final Battle,BMS,9740816,9890957,9312919,0
 162,Final Fantasy IX,Behind the Door,FMS,9906475,9707260,9770459,0
 163,Final Fantasy X,SUTEKI DA NE (Isn't It Wonderful?),EMS,9801347,9780886,9503937,-
 164,Final Fantasy X,Battle Theme,BMS,9835694,9919614,9454076,0
 165,Final Fantasy X,Spira Unplugged,FMS,9813725,9975983,9688885,-
-166,Final Fantasy X,Blitz Off!,BMS,9786765,9788043,8621072,-
+166,Final Fantasy X,Blitz Off!,BMS,9786765,9788043,9899240,-
 167,Final Fantasy X,Movement In Green,FMS,9937705,9909910,9645880,-
 168,Final Fantasy X,Mi'ihen Highroad,FMS,9913978,9703777,9637298,-
 169,Final Fantasy X,Thunder Plains,FMS,9974441,9896825,9699310,0
 170,Final Fantasy X,Launch,FMS,9890020,9888514,9360088,-
-171,Final Fantasy X,Assault,BMS,9843478,9949928,8287984,-
+171,Final Fantasy X,Assault,BMS,9843478,9949928,8672051,-
 172,Final Fantasy X,Via Purifico,FMS,9885033,9911079,8302603,-
 173,Final Fantasy X,SUTEKI DA NE (Isn't It Wonderful?),FMS,9907186,9869159,9940187,-
 174,Final Fantasy X,Servants of the Mountain,FMS,9901099,9946188,9914740,-
 175,Final Fantasy X,A Fleeting Dream,FMS,9770609,9926290,9437289,-
 176,Final Fantasy X,Challenge,BMS,9861660,9868633,9758833,-
-177,Final Fantasy X,Fight with Seymour,BMS,9734918,9606996,9483987,0
-178,Final Fantasy X,Otherworld,BMS,9734737,9787566,8431040,0
-179,Final Fantasy X,A Contest of Aeons,BMS,9972112,9780908,9340868,0
-180,Final Fantasy X,Final Battle,BMS,9885986,9479260,8818082,0
-181,Final Fantasy X-2,1000 Words (FFX-2 Mix),EMS,9927835,9496703,9346211,-
-182,Final Fantasy X-2,"YuRiPa, Fight! No. 1",BMS,9726190,9621476,9459014,-
+177,Final Fantasy X,Fight with Seymour,BMS,9734918,9708531,9483987,0
+178,Final Fantasy X,Otherworld,BMS,9734737,9787566,8653711,0
+179,Final Fantasy X,A Contest of Aeons,BMS,9972112,9932707,9340868,0
+180,Final Fantasy X,Final Battle,BMS,9885986,9892857,8818082,0
+181,Final Fantasy X-2,1000 Words (FFX-2 Mix),EMS,9927835,9747253,9346211,-
+182,Final Fantasy X-2,"YuRiPa, Fight! No. 1",BMS,9726190,9878939,9459014,-
 183,Final Fantasy X-2,We're the Gullwings!,FMS,9958005,9845045,9442690,-
-184,Final Fantasy X-2,"""Let me blow you a kiss.""",BMS,9842412,9245778,8868403,-
-185,Final Fantasy X-2,The Bevelle Underground,FMS,9669811,9648622,9173073,-
+184,Final Fantasy X-2,"""Let me blow you a kiss.""",BMS,9842412,9841410,8868403,-
+185,Final Fantasy X-2,The Bevelle Underground,FMS,9669811,9880315,9173073,-
 186,Final Fantasy X-2,The Farplane Abyss,FMS,9947598,9829971,9720935,-
 187,Final Fantasy X-2,Their Resting Place,BMS,9779582,9690442,7909343,-
-188,Final Fantasy XI,"""FFXI Opening Theme""",EMS,9720472,9478378,9563559,-
+188,Final Fantasy XI,"""FFXI Opening Theme""",EMS,9720472,9845946,9563559,-
 189,Final Fantasy XI,"""FFXI Opening Theme""",BMS,9850847,9960784,8666288,-
 190,Final Fantasy XI,Vana'diel March,FMS,9843750,9853960,9824225,-
 191,Final Fantasy XI,Ronfaure,FMS,9922118,9823266,9660189,-
-192,Final Fantasy XI,Battle Theme,BMS,9832845,9577869,9104555,-
+192,Final Fantasy XI,Battle Theme,BMS,9832845,9865209,9104555,-
 193,Final Fantasy XI,Gustaberg,FMS,9888571,9891089,9858025,-
 194,Final Fantasy XI,Heavens Tower,FMS,9926752,9783898,9971681,-
 195,Final Fantasy XI,Sarutabaruta,FMS,9905229,9847222,9490545,-
 196,Final Fantasy XI,Voyager,FMS,9869919,9779188,9569718,-
 197,Final Fantasy XI,Selbina,FMS,9865385,9913758,8868701,-
 198,Final Fantasy XI,Recollection,FMS,9868657,9875214,9902503,-
-199,Final Fantasy XI,Awakening,BMS,9773973,9686137,8713599,0
+199,Final Fantasy XI,Awakening,BMS,9773973,9886293,8713599,0
 200,Final Fantasy XI,Tought Battle #2,BMS,9734536,9823529,8046668,-
 201,Final Fantasy XI,The Sanctuary of Zi'Tah,FMS,9916399,9944206,9957880,-
-202,Final Fantasy XI,Fighters of the Crystal,BMS,9813505,9818018,8476365,0
+202,Final Fantasy XI,Fighters of the Crystal,BMS,9813505,9818018,9185462,0
 203,Final Fantasy XI,A New Horizon - Tavnazian Archipelago,FMS,9948087,9806189,9749149,-
 204,Final Fantasy XI,Iron Colossus,BMS,9780928,9940514,9308720,-
-205,Final Fantasy XI,Ragnarok,BMS,9878419,9623729,9604605,0
-206,Final Fantasy XI,Melodies Errant,BMS,9651163,9909556,8156501,-
+205,Final Fantasy XI,Ragnarok,BMS,9878419,9927119,9604605,0
+206,Final Fantasy XI,Melodies Errant,BMS,9932817,9909556,8468299,-
 207,Final Fantasy XI,Shinryu,BMS,9798598,9868421,9191648,0
-208,Final Fantasy XII,The Archadian Empire - original - from FINAL FANTASY XII,EMS,9740947,9594828,9428781,-
+208,Final Fantasy XII,The Archadian Empire - original - from FINAL FANTASY XII,EMS,9740947,9853955,9535977,-
 209,Final Fantasy XII,FINAL FANTASY (FFXII Version),BMS,9964824,9734504,9651672,-
-210,Final Fantasy XII,Streets of Rabanastre,FMS,9894569,9653162,9253756,-
-211,Final Fantasy XII,The Dalmasca Estersand,FMS,9649306,9617284,9619911,0
-212,Final Fantasy XII,Heart of a Child,FMS,9879747,9944206,9014887,-
+210,Final Fantasy XII,Streets of Rabanastre,FMS,9894569,9830040,9516837,-
+211,Final Fantasy XII,The Dalmasca Estersand,FMS,9951389,9967078,9619911,0
+212,Final Fantasy XII,Heart of a Child,FMS,9879747,9944206,9145217,-
 213,Final Fantasy XII,Giza Plains (from FINAL FANTASY XII Original Soundtrack),FMS,9764901,9704620,9713690,-
 214,Final Fantasy XII,The Archadian Empire - original - from FINAL FANTASY XII,FMS,9719512,9828244,9000428,-
-215,Final Fantasy XII,Phon Coast,FMS,9805556,9877462,9413570,0
-216,Final Fantasy XII,The Mosphoran Highwaste,FMS,9960133,9781885,9178888,-
+215,Final Fantasy XII,Phon Coast,FMS,9805556,9877462,9527913,0
+216,Final Fantasy XII,The Mosphoran Highwaste,FMS,9960133,9781885,9740788,-
 217,Final Fantasy XII,Boss Battle,BMS,9923567,9836522,9784587,-
-218,Final Fantasy XII,Flash of Steel,BMS,9843915,9800000,9363554,0
+218,Final Fantasy XII,Flash of Steel,BMS,9843915,9800000,9713584,0
 219,Final Fantasy XII,Battle with an Esper,BMS,9816054,9886562,9836049,-
 220,Final Fantasy XII,Life and Death,BMS,9919786,9796407,9336707,-
 221,Final Fantasy XII,Struggle for Freedom,BMS,9876712,9790869,9526042,0
-222,Final Fantasy XII,Ending Movie (from FINAL FANTASY XII Original Soundtrack),BMS,9917695,9722772,9148756,-
-223,Final Fantasy XIII,Defiers of Fate,EMS,9603093,9843254,9718224,-
+222,Final Fantasy XII,Ending Movie (from FINAL FANTASY XII Original Soundtrack),BMS,9917695,9722772,9550174,-
+223,Final Fantasy XIII,Defiers of Fate,EMS,9860825,9843254,9718224,-
 224,Final Fantasy XIII,Defiers of Fate,BMS,9930233,9901387,9584478,0
 225,Final Fantasy XIII,Saber's Edge,BMS,9689573,9887290,9230763,-
 226,Final Fantasy XIII,Blinded by Light,BMS,9664694,9875643,9441683,0
@@ -229,17 +229,17 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 228,Final Fantasy XIII,The Gapra Whitewood,FMS,9906137,9841689,9818598,-
 229,Final Fantasy XIII,The Sunleth Waterscape,FMS,9938849,9877358,9401854,0
 230,Final Fantasy XIII,The Archylte Steppe,FMS,9862222,9821637,9723270,-
-231,Final Fantasy XIII,Desperate Struggle,BMS,9868526,9446469,8801292,-
+231,Final Fantasy XIII,Desperate Struggle,BMS,9868526,9731207,8801292,-
 232,Final Fantasy XIII,Will to Fight,BMS,9674576,9811558,9532764,-
 233,Final Fantasy XIII,Dust to Dust,FMS,9674658,9888350,9654448,-
-234,Final Fantasy XIII,Eden Under Siege,BMS,9755418,9599609,8802636,-
+234,Final Fantasy XIII,Eden Under Siege,BMS,9755418,9880859,8802636,-
 235,Final Fantasy XIII,Fighting Fate,BMS,9862319,9780924,9600052,0
-236,Final Fantasy XIII,Nascent Requiem,BMS,9819005,9387316,8927165,0
+236,Final Fantasy XIII,Nascent Requiem,BMS,9819005,9901472,8927165,0
 237,Final Fantasy XIII-2,Warrior Goddess,EMS,9809917,9876827,9666000,-
 238,Final Fantasy XIII-2,Etro's Champion,BMS,9850000,9811410,9587137,0
 239,Final Fantasy XIII-2,Paradigm Shift,BMS,9674677,9864275,9477871,0
 240,Final Fantasy XIII-2,Historia Crux,FMS,9875000,9875256,9560380,-
-241,Final Fantasy XIII-2,The Last Hunter,BMS,9664000,9738129,9042318,-
+241,Final Fantasy XIII-2,The Last Hunter,BMS,9938667,9738129,9042318,-
 242,Final Fantasy XIII-2,Full Speed Ahead,BMS,9851240,9845263,8992013,-
 243,Final Fantasy XIII-2,Eclipse,FMS,9890526,9804954,9296877,-
 244,Final Fantasy XIII-2,Plains of Eternity,FMS,9893720,9938650,9931868,-
@@ -249,26 +249,26 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 248,Final Fantasy XIII-2,Heart of Chaos,BMS,9895833,9908108,9215538,0
 249,Lightning Returns: Final Fantasy XIII,The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -,EMS,9764706,9693950,9650137,-
 250,Lightning Returns: Final Fantasy XIII,LIGHTNING RETURNS - LIGHTNING RETURNS:FINAL FANTASY XIII -,BMS,9905371,9869822,8850342,0
-251,Lightning Returns: Final Fantasy XIII,Crimson Blitz,BMS,9662857,9820078,9468724,0
+251,Lightning Returns: Final Fantasy XIII,Crimson Blitz,BMS,9882857,9830078,9468724,0
 252,Lightning Returns: Final Fantasy XIII,The Glittering City of Yusnaan,FMS,9888172,9840990,9429401,-
 253,Lightning Returns: Final Fantasy XIII,The Dead Dunes,FMS,9901961,9785515,9370948,-
-254,Lightning Returns: Final Fantasy XIII,The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -,BMS,9877034,9729219,8093390,0
+254,Lightning Returns: Final Fantasy XIII,The Savior - LIGHTNING RETURNS:FINAL FANTASY XIII -,BMS,9877034,9729219,8938949,0
 255,Lightning Returns: Final Fantasy XIII,Chaos,BMS,9795402,9773869,9579589,-
-256,Final Fantasy XIV,Answers,EMS,9582090,9483122,9504736,-
+256,Final Fantasy XIV,Answers,EMS,9716418,9867089,9504736,-
 257,Final Fantasy XIV,On Westerly Winds,FMS,9969231,9950998,9169752,-
 258,Final Fantasy XIV,Serenity,FMS,9956863,9947991,9872449,-
 259,Final Fantasy XIV,To the Sun,FMS,9955357,9821862,9568657,-
 260,Final Fantasy XIV,The Land Breathes,BMS,9742729,9803358,9693203,-
-261,Final Fantasy XIV,Hard to Miss,BMS,9578774,9831797,9611223,-
+261,Final Fantasy XIV,Hard to Miss,BMS,9932075,9831797,9611223,-
 262,Final Fantasy XIV,Torn from the Heavens,BMS,9933002,9767742,9118299,0
-263,Final Fantasy XIV,Nemesis,BMS,9861893,9119380,8551681,-
-264,Final Fantasy XIV,Primal Judgment,BMS,9733173,9776097,8076050,-
+263,Final Fantasy XIV,Nemesis,BMS,9861893,9953488,8551681,-
+264,Final Fantasy XIV,Primal Judgment,BMS,9733173,9776097,8944572,-
 265,Final Fantasy XIV,Under the Weight,BMS,9793165,9728890,8688843,0
-266,Final Fantasy XIV,Engage,FMS,9940341,9640625,9391543,0
-267,Final Fantasy XIV,Fallen Angel,BMS,9940334,9647619,9226128,0
+266,Final Fantasy XIV,Engage,FMS,9940341,9881048,9391543,0
+267,Final Fantasy XIV,Fallen Angel,BMS,9940334,9887075,9226128,0
 268,Final Fantasy XIV,Good King Moggle Mog XII,BMS,9958661,9929455,8934469,-
-269,Final Fantasy XIV,Ultima,BMS,9894988,9610677,8806463,0
-270,Final Fantasy XIV,Through the Maelstrom,BMS,9651214,9830838,8953151,0
+269,Final Fantasy XIV,Ultima,BMS,9894988,9930990,8806463,0
+270,Final Fantasy XIV,Through the Maelstrom,BMS,9938190,9830838,8953151,0
 271,Final Fantasy XIV,A Light in the Storm,FMS,9720000,9724444,9611761,-
 272,Final Fantasy XIV,Oblivion,BMS,9808824,9832803,9609859,0
 273,Final Fantasy XIV,Omnious Prognisticks,BMS,9850318,9772222,9180524,0
@@ -278,7 +278,7 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 277,Final Fantasy XIV,Metal - Brute Justice Mode,BMS,9859023,9797460,8740419,0
 278,Final Fantasy XIV,Exponential Entropy,BMS,9735346,9802846,9148834,0
 279,Final Fantasy XIV,Moebius,BMS,9818681,9837591,9879656,0
-280,Final Fantasy XIV,Rise,BMS,9605263,9890173,9449227,0
+280,Final Fantasy XIV,Rise,BMS,9979532,9890173,9449227,0
 281,Final Fantasy XIV,Triumph,BMS,9890785,9841313,9005654,-
 282,Final Fantasy XIV,The Worm's Tail,BMS,9818182,9767733,8849735,0
 283,Final Fantasy XIV,Wayward Daughter,BMS,9944118,9892308,9094207,0
@@ -286,19 +286,19 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 285,Final Fantasy XIV,What Angel Wakes Me,BMS,9841608,9839161,9807649,0
 286,Final Fantasy XIV,Who Brings Shadow,BMS,9821629,9740814,9421970,0
 287,Final Fantasy XIV,A Long Fall,BMS,9797292,9885897,9270575,0
-288,Final Fantasy XIV,Promises to Keep,BMS,9949511,9537805,8959162,-
-289,Final Fantasy XV,APOCALYPSIS NOCTIS,EMS,9819149,9552196,8842106,-
-290,Final Fantasy XV,Stand Your Ground,BMS,9600649,9758197,9192191,-
+288,Final Fantasy XIV,Promises to Keep,BMS,9949511,9908293,8959162,-
+289,Final Fantasy XV,APOCALYPSIS NOCTIS,EMS,9819149,9727862,8842106,-
+290,Final Fantasy XV,Stand Your Ground,BMS,9909091,9758197,9192191,-
 291,Final Fantasy XV,Veiled in Black,BMS,9804627,9929374,9511812,0
 292,Final Fantasy XV,Valse di Fantastica,FMS,9763780,9812092,9010809,0
 293,Final Fantasy XV,The Fight Is On!,BMS,9808017,9924890,9841220,-
-294,Final Fantasy XV,APOCALYPSIS NOCTIS (Uncovered Trailer),BMS,9648488,9270682,8975409,0
+294,Final Fantasy XV,APOCALYPSIS NOCTIS (Uncovered Trailer),BMS,9902808,9822932,8975409,0
 295,Final Fantasy XV,Flying R,FMS,9821023,9785714,9754533,0
-296,Final Fantasy XV,Invidia,BMS,9724409,9590444,9673455,0
+296,Final Fantasy XV,Invidia,BMS,9724409,9914676,9673455,0
 297,Final Fantasy XV,OMNIS LACRIMA,BMS,9932615,9838762,9471463,0
-298,Final Fantasy XV,Up for the Challenge,BMS,9917614,9323843,9457124,0
-299,Final Fantasy XV,Somnus,FMS,9893204,9553642,8922760,-
-300,Final Fantasy XV,Hellfire,BMS,9886994,9802115,9347048,0
+298,Final Fantasy XV,Up for the Challenge,BMS,9917614,9911111,9457124,0
+299,Final Fantasy XV,Somnus,FMS,9893204,9944882,8922760,-
+300,Final Fantasy XV,Hellfire,BMS,9886994,9901813,9765608,0
 301,Final Fantasy XV,Magna Insomnia,BMS,9785092,9701075,9290217,0
 302,Final Fantasy XV,Main Theme from FINAL FANTASY,FMS,9822878,9757647,9782385,-
 303,Final Fantasy XV,NOCTIS,FMS,9875691,9724951,9418217,-
@@ -308,40 +308,40 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 307,Final Fantasy XV,The Dance of Silver and Crimson,BMS,9932181,9882960,8879256,0
 308,Final Fantasy Mystic Quest,Hill of Destiny,BMS,9880150,9831683,8953240,0
 309,Final Fantasy Mystic Quest,Battle 1,BMS,9686887,9808290,9689422,-
-310,Final Fantasy Mystic Quest,Battle 2,BMS,9782090,9550567,8550630,0
-311,Final Fantasy Mystic Quest,Doom Castle,FMS,9875758,9587260,8948659,0
+310,Final Fantasy Mystic Quest,Battle 2,BMS,9782090,9886578,9484257,0
+311,Final Fantasy Mystic Quest,Doom Castle,FMS,9875758,9915385,8948659,0
 312,Final Fantasy Mystic Quest,Battle 3,BMS,9827411,9712171,8717265,0
-313,Final Fantasy Tactics,Opening,EMS,9887500,9468599,9023278,-
+313,Final Fantasy Tactics,Opening,EMS,9887500,9671498,9023278,-
 314,Final Fantasy Tactics,Prologue,FMS,9726519,9853462,9856280,-
-315,Final Fantasy Tactics,Trisection,BMS,9646869,9279509,9640812,0
-316,Final Fantasy Tactics,Apoplexy,BMS,9947507,9823727,8247424,0
-317,Final Fantasy Tactics,Antipyretic,BMS,9875635,9666181,8763123,-
-318,Final Fantasy Tactics,Precipitous Combat,BMS,9873479,9832781,8106310,0
+315,Final Fantasy Tactics,Trisection,BMS,9918489,9828446,9640812,0
+316,Final Fantasy Tactics,Apoplexy,BMS,9947507,9823727,8838711,0
+317,Final Fantasy Tactics,Antipyretic,BMS,9875635,9881864,8763123,-
+318,Final Fantasy Tactics,Precipitous Combat,BMS,9873479,9832781,8821225,0
 319,Final Fantasy Tactics,Ovelia's Theme,FMS,9886305,9689655,9228709,-
 320,Final Fantasy Tactics,Ultima's Transformation,BMS,9841849,9894481,9020177,0
 321,Final Fantasy Crystal Chronicles Remastered Edition,Moonless Starry Night,EMS,9911392,9798995,9260621,-
 322,Final Fantasy Crystal Chronicles Remastered Edition,Today Comes To Be Tomorrow,FMS,9906250,9910913,9859012,-
 323,Final Fantasy Crystal Chronicles Remastered Edition,Promised Grace,FMS,9747126,9847007,8728730,-
 324,Final Fantasy Crystal Chronicles Remastered Edition,Monster Ronde,BMS,9893519,9944954,9300115,0
-325,Final Fantasy Crystal Chronicles Remastered Edition,Across the Divide,FMS,9769231,9674888,8804521,0
+325,Final Fantasy Crystal Chronicles Remastered Edition,Across the Divide,FMS,9769231,9874439,8804521,0
 326,Final Fantasy Crystal Chronicles Remastered Edition,Woebegone Creature,BMS,9933078,9926905,9810585,0
 327,Final Fantasy Crystal Chronicles Remastered Edition,"United, Heaven-Sent",BMS,9883721,9920471,8791698,-
-328,Final Fantasy Crystal Chronicles: The Crystal Bearers,This Is the End for You!,BMS,9796578,9881310,8601695,0
+328,Final Fantasy Crystal Chronicles: The Crystal Bearers,This Is the End for You!,BMS,9796578,9881310,9627914,0
 329,Dissidia Final Fantasy,DISSIDIA FINAL FANTASY [FINAL TRAILER],BMS,9849711,9868946,9588585,-
 330,Dissidia Final Fantasy,Keeping the Peace from DISSIDIA FINAL FANTASY,FMS,9928144,9795045,9855457,-
 331,Dissidia Final Fantasy,The Decisive Battle - arrange - from FFVI,BMS,9905444,9736031,9212257,-
 332,Dissidia Final Fantasy,Battle 1 - arrange - from FFIX,BMS,9892754,9705082,9150276,-
 333,Dissidia Final Fantasy,The Troops' Advance,BMS,9818942,9749269,9192344,-
 334,Dissidia Final Fantasy,DISSIDIA - ending - from DISSIDIA FINAL FANTASY,BMS,9844622,9890026,9330732,-
-335,Dissidia 012[duodecim] Final Fantasy,Lux Concordiae,EMS,9887097,9602339,9797170,-
+335,Dissidia 012[duodecim] Final Fantasy,Lux Concordiae,EMS,9887097,9871345,9797170,-
 336,Dissidia 012[duodecim] Final Fantasy,DISSIDIA 012[duodecim] FINAL FANTASY [FINAL TRAILER],BMS,9841346,9861862,8639029,-
 337,Dissidia 012[duodecim] Final Fantasy,Canto Mortis -An Undocumented Battle-,FMS,9730061,9858427,9833819,-
-338,Dissidia 012[duodecim] Final Fantasy,Gate to the Rift,FMS,9618449,9912711,8566762,-
+338,Dissidia 012[duodecim] Final Fantasy,Gate to the Rift,FMS,9970650,9912711,9078163,-
 339,Dissidia 012[duodecim] Final Fantasy,Cantata Mortis,BMS,9815249,9939516,9301344,-
-340,Dissidia Final Fantasy -Arcade-,"""The Rebel Army"" from FINAL FANTASY II (Arrangement)",BMS,9821340,9658520,8809076,0
+340,Dissidia Final Fantasy -Arcade-,"""The Rebel Army"" from FINAL FANTASY II (Arrangement)",BMS,9821340,9850559,8809076,0
 341,Dissidia Final Fantasy -Arcade-,"""Eternal Wind"" from FINAL FANTASY III (DFF Arrangement)",BMS,9827964,9764238,8767100,-
-342,Dissidia Final Fantasy -Arcade-,"""Dancing Mad"" from FINAL FANTASY VI (Arrangement)",BMS,9857550,9622496,9292380,0
-343,Dissidia Final Fantasy -Arcade-,"""Ominous Prognisticks"" from FINAL FANTASY XIV (Arrangement)",BMS,9822171,9648739,8738732,-
+342,Dissidia Final Fantasy -Arcade-,"""Dancing Mad"" from FINAL FANTASY VI (Arrangement)",BMS,9857550,9791988,9292380,0
+343,Dissidia Final Fantasy -Arcade-,"""Ominous Prognisticks"" from FINAL FANTASY XIV (Arrangement)",BMS,9822171,9932773,8738732,-
 344,Dissidia Final Fantasy -Arcade-,"""Antipyretic"" from FINAL FANTASY TACTICS (Arrangement)",BMS,9689956,9799479,9543072,0
 345,Dissidia Final Fantasy -Arcade-,"""The Beginning of the End"" from FINAL FANTASY TYPE-0 (Arrangement)",BMS,9779279,9691221,9698749,-
 346,Dissidia Final Fantasy -Arcade-,Massive Explosion (Short ver.),BMS,9838415,9736626,8973479,-
@@ -349,16 +349,16 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 348,Dissidia Final Fantasy Opera Omnia,Spark from DISSIDIA FINAL FANTASY OPERA OMNIA,BMS,9746556,9828452,9613269,-
 349,Dissidia Final Fantasy NT,Dare to Defy,BMS,9917683,9803279,9784874,0
 350,Final Fantasy Type-0,We Have Come,EMS,9663599,9694853,9660963,-
-351,Final Fantasy Type-0,We Have Come,BMS,9816327,9613328,8789101,0
+351,Final Fantasy Type-0,We Have Come,BMS,9816327,9915110,9704865,0
 352,Final Fantasy Type-0,War: Warrior Worth a Thousand,BMS,9903448,9865214,9336291,-
 353,Final Fantasy Type-0,The Earth Under Our Feet,FMS,9870968,9884097,9788809,-
 354,Final Fantasy Type-0,War: The White Weapon,BMS,9936073,9900482,8993647,0
-355,Final Fantasy Type-0,Soar,FMS,9781818,9524238,9672465,-
+355,Final Fantasy Type-0,Soar,FMS,9781818,9853186,9672465,-
 356,Final Fantasy Type-0,Tempus Finis,FMS,9740920,9814754,9304474,-
 357,Final Fantasy Type-0,Vermilion Fire,BMS,9822976,9757493,9174539,-
 358,Theatrhythm Final Fantasy,The Chaos Shrine - TFF Menu Arrangement - From FF,BMS,9871886,9960688,8737240,-
 359,Theatrhythm Final Fantasy,Return of the Warrior - TFF Menu Arrangement - From FFIII,FMS,9796552,9793011,8752449,0
-360,Theatrhythm Final Fantasy,Battle at the Big Bridge - TFF Menu Arrangement - From FFV,BMS,9638796,9694391,9056867,0
+360,Theatrhythm Final Fantasy,Battle at the Big Bridge - TFF Menu Arrangement - From FFV,BMS,9916388,9694391,9056867,0
 361,Theatrhythm Final Fantasy Curtain Call,THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley,EMS,9681953,9710465,9597447,-
 362,Theatrhythm Final Fantasy Curtain Call,Choose Your Combatants - TFFCC Menu Arrangement - From FFT,BMS,9842444,9679654,9595950,-
 363,Theatrhythm Final Fantasy Curtain Call,THEATRHYTHM FINAL FANTASY CURTAIN CALL Special Arrangement Medley,BMS,9894168,9909155,8965277,-
@@ -366,25 +366,25 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 365,Theatrhythm Final Fantasy All-star Carnival,Matoya's Cave - TFFAC Arrangement - From FF,FMS,9940199,9749693,8689492,0
 366,Theatrhythm Final Fantasy All-star Carnival,The Red Wings - TFFAC Arrangement - From FFIV,FMS,9706619,9776230,8841404,0
 367,Theatrhythm Final Fantasy All-star Carnival,Main Theme of Final Fantasy V - TFFAC Arrangement - From FFV,BMS,9825919,9929851,9241521,0
-368,Theatrhythm Final Fantasy All-star Carnival,Battle at the Big Bridge - TFFAC Arrangement - From FFV,BMS,9776967,9356919,6977198,0
+368,Theatrhythm Final Fantasy All-star Carnival,Battle at the Big Bridge - TFFAC Arrangement - From FFV,BMS,9776967,9722530,6977198,0
 369,Theatrhythm Final Fantasy All-star Carnival,Locke's Theme - TFFAC Arrangement - From FFVI,BMS,9835490,9842986,8940675,0
-370,Theatrhythm Final Fantasy All-star Carnival,J-E-N-O-V-A - TFFAC Arrangement - From VII,BMS,9690415,9802661,8124844,0
-371,Theatrhythm Final Fantasy All-star Carnival,Fight with Seymour - TFFAC Arrangement - From FFX,BMS,9878327,9414890,8825862,0
+370,Theatrhythm Final Fantasy All-star Carnival,J-E-N-O-V-A - TFFAC Arrangement - From VII,BMS,9941278,9802661,8124844,0
+371,Theatrhythm Final Fantasy All-star Carnival,Fight with Seymour - TFFAC Arrangement - From FFX,BMS,9878327,9905882,8825862,0
 372,Theatrhythm Final Fantasy All-star Carnival,TFFCC Special Arrangement Medley - TFFAC Arrangement - From TFFCC,BMS,9888060,9752861,8126025,0
-373,Theatrhythm Final Bar Line,FFVII Special Arrangement Medley - TFBL Arrangement - From FFVII,BMS,9769255,9683743,8769934,0
-374,Theatrhythm Final Bar Line,THEATRHYTHM FINAL BAR LINE Special Battle Arrangement Medley,BMS,9686232,9750200,8128577,0
+373,Theatrhythm Final Bar Line,FFVII Special Arrangement Medley - TFBL Arrangement - From FFVII,BMS,9769255,9819672,8769934,0
+374,Theatrhythm Final Bar Line,THEATRHYTHM FINAL BAR LINE Special Battle Arrangement Medley,BMS,9686232,9786871,8128577,0
 375,Final Fantasy Record Keeper,Chaos Shrine FFRK Ver. arrangement from FFI,BMS,9823353,9844211,9687672,0
-376,Final Fantasy Record Keeper,Battle at the Big Bridge~Ver.2~ FFRK Ver. arrange,BMS,9586130,9865801,9084780,0
+376,Final Fantasy Record Keeper,Battle at the Big Bridge~Ver.2~ FFRK Ver. arrange,BMS,9932886,9865801,9084780,0
 377,Final Fantasy Record Keeper,The Decisive Battle FFRK Ver. arrange from FFVI,BMS,9907598,9692308,8916145,0
 378,Final Fantasy Record Keeper,The Chase FFRK Ver. arrange from FFVII,BMS,9759465,9857778,8701731,0
 379,Final Fantasy Record Keeper,The Man with the Machine Gun FFRK Ver. arrange from FFVIII,BMS,9885965,9833333,8540166,-
-380,Final Fantasy Record Keeper,Blinded by Light FFRK Ver. arrange from FFXIII,BMS,9852941,9618658,9762864,0
-381,Final Fantasy Record Keeper,Stand Your Ground FFRK Ver. arrange from FFXV,BMS,9660377,9882813,9814126,0
+380,Final Fantasy Record Keeper,Blinded by Light FFRK Ver. arrange from FFXIII,BMS,9852941,9895254,9762864,0
+381,Final Fantasy Record Keeper,Stand Your Ground FFRK Ver. arrange from FFXV,BMS,9981132,9882813,9814126,0
 382,Final Fantasy Record Keeper,UTAKATA FFRK Ver. arrange from FFType-0,BMS,9802575,9745295,9181473,-
-383,Mobius Final Fantasy,Warrior of Light - Mobius Final Fantasy,BMS,9833819,9658349,9279878,0
+383,Mobius Final Fantasy,Warrior of Light - Mobius Final Fantasy,BMS,9833819,9904031,9279878,0
 384,Mobius Final Fantasy,Dancing Edge,BMS,9772487,9834495,9155324,0
 385,Mobius Final Fantasy,Magic Madness,BMS,9759791,9886441,9010786,-
-386,Mobius Final Fantasy,Bloodthirst,BMS,9926290,9548257,8696067,0
+386,Mobius Final Fantasy,Bloodthirst,BMS,9926290,9933673,8696067,0
 387,Mobius Final Fantasy,Femme Fatale,BMS,9900285,9950758,9116750,-
 388,Final Fantasy: The 4 Heroes of Light,The 4 Heroes of Light,FMS,9855792,9769262,9488184,-
 389,Final Fantasy: The 4 Heroes of Light,Fiend Encounter,BMS,9802778,9848443,9290274,0
@@ -399,6 +399,6 @@ ID,Series,Title,Type,Basic,Expert,Ultimate,Supreme
 398,Bra?Bra Final Fantasy Brass de Bravo 2,Mambo de Chocobo,FMS,9934236,9833972,9487374,-
 399,Final Fantasy Fables: Chocobo's Dungeon,Dungeon Hero X's Theme,BMS,9868235,9751553,8939789,0
 400,Final Fantasy Fables: Chocobo's Dungeon,Pop-Up Duel,BMS,9791005,9681745,9534974,0
-401,Final Fantasy Fables: Chocobo's Dungeon,Leviathan Battle,BMS,9915842,9594719,8890578,-
+401,Final Fantasy Fables: Chocobo's Dungeon,Leviathan Battle,BMS,9915842,9865672,8890578,-
 402,Final Fantasy Fables: Chocobo's Dungeon,Guardian of the Dark II,BMS,9785079,9756098,8929204,-
 403,Final Fantasy Fables: Chocobo's Dungeon,Raffaello Battle,BMS,9751094,9704608,8712507,0
