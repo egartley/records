@@ -4,12 +4,13 @@ import math
 
 
 class Game:
-    def __init__(self, gameid, title, platform, rating, iconid, hundo, plat, year, hours, playthroughs, dlc):
-        self.gameid = gameid
+    def __init__(self, title, year, platform, rating, hundo, plat, iconid, hours, playthroughs, dlc):
         self.title = title
         self.platform = platform
         self.rating = rating
         self.iconid = iconid
+        if len(iconid) < 6:
+            self.iconid = ("0" * (6 - len(iconid))) + self.iconid
         self.hundo = hundo
         self.plat = plat
         self.year = year
@@ -61,7 +62,6 @@ def get_playtext(game):
 def get_listing_html(game):
     start = "<div class=\"gamecard flex card\">\n<div class=\"gamecard-outer flex\">\n<img id=\"i"
     start += game.iconid + "\" alt=\"icon\" src=\"/resources/png/blank.png\">\n"
-    start += "<span id=\"gameid\" gameid=\"" + str(game.gameid) + "\" style=\"display:none\"></span>\n"
     start += "<div class=\"gamecard-inner flex\">\n"    
     platform = game.platform
     # change displayed string if nintendo or ios
@@ -184,13 +184,14 @@ stat_completion = [["100% Complete", 0], ["Platinum Trophy", 0]]
 # build list of game objects from csv
 with open("games.csv", mode="r") as gamescsv:   
   file = csv.reader(gamescsv)
+  first = True
   for gl in file:
-      if int(gl[12]) == -1:
-          # skip games with their "exclude" flag set
-          # these are on record, but have yet to be played
+      if first:
+          first = False
           continue
-      game = Game(int(gl[4]), str(gl[0]), str(gl[3]), float(gl[5]), str(gl[8]), int(gl[6]) == 1,
-                  int(gl[7]) == 1, str(gl[2]), int(gl[9]), int(gl[10]), int(gl[11]) == 1)
+      # Title,Company,Year,Platform,Rating,100%,Platinum,Icon ID,Hours Played,Playthroughs,DLC
+      game = Game(str(gl[0]), str(gl[2]), str(gl[3]), float(gl[4]), int(gl[5]) == 1,
+                  int(gl[6]) == 1, str(gl[7]), int(gl[8]), int(gl[9]), int(gl[10]) == 1)
       game_list.append(game)
 
 # sort alphabetically by game title
@@ -223,15 +224,12 @@ while alphabet_index < len(alphabet) - 1:
     alphabet_index += 1
     listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
 listinghtml += "</div>\n"
-# output file
 with open("game-records.html", mode="w") as outfile:
     outfile.write(pageheader + signaturehtml + mischtml + listinghtml)
 
-# build CSS for icons
 iconcss = ""
 for game in game_list:
     iconcss += get_icon_css(game.iconid)
-# output file
 with open("game-records-icons.css", mode="w") as outfile:
     outfile.write(iconcss)
 
