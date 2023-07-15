@@ -3,6 +3,7 @@ Title,Company,Year,Platform,Rating,100%,Platinum,Icon ID,Hours Played,Playthroug
 A Bug's Life,Traveller's Tales,1998,PlayStation 1,4,1,0,201,48,6,0
 Abzu,Giant Squid,2016,PlayStation 4,2,1,0,10009,4,1,0
 ADR1FT,Three One Zero,2016,PlayStation 4,1,0,0,307,7,2,0
+Alan Wake Remastered,Remedy Entertainment,2021,PlayStation 5,2.5,0,0,20000,9,1,0
 Animal Crossing: Pocket Camp,Nintendo,2017,iOS,3.5,0,0,10602,34,1,0
 Asphalt 9: Legends,Gameloft,2018,Switch,2.5,0,0,10402,12,0,0
 Astro's Playroom,Sony Interactive Entertainment,2020,PlayStation 5,3.5,1,1,10508,6,1,0
@@ -22,6 +23,8 @@ Cooking Mama,Cooking Mama Limited,2006,DS,2.5,0,0,607,4,1,0
 Crash Bandicoot 4: It's About Time,Activision,2020,PlayStation 4,3.5,0,0,800,10,1,0
 Cyberpunk 2077,CD Projekt RED,2020,PlayStation 4/5,3.5,1,1,509,113,2,0
 Dark Souls II: Scholar of the First Sin,FromSoftware,2015,PlayStation 4,4.5,0,0,10400,39,1,1
+Dark Souls III: The Fire Fades Edition,FromSoftware,2017,PlayStation 4,4.5,0,0,20002,1,-1,1
+Dark Souls Remastered,FromSoftware,2018,PlayStation 4,4,0,0,20001,12,-1,0
 Death Stranding: Director's Cut,Kojima Productions,2021,PlayStation 5,4,0,0,10106,52,1,0
 Demon's Souls,Bluepoint Games,2020,PlayStation 5,3.5,0,0,10206,10,0,0
 Detroit: Become Human,Quantic Dream,2018,PlayStation 4,3.5,0,0,10801,21,1,0
@@ -36,7 +39,7 @@ Entwined,Pixelopus,2014,PlayStation 4,2.5,0,0,10706,3,1,0
 Epic Mickey,Disney Interactive Studios,2010,Wii,3,0,0,909,15,1,0
 EyeToy: Play 2,London Studio,2005,PlayStation 2,4,0,0,903,55,1,0
 Far Cry 3 Classic Edition,Ubisoft,2018,PlayStation 4,3.5,1,1,8,27,1,0
-Far Cry 5,Ubisoft,2018,PlayStation 4,3,0,0,10909,3,-1,0
+Far Cry 5,Ubisoft,2018,PlayStation 4,3.5,0,0,10909,45,1,0
 Fez Pocket Edition,Polytron Corporation,2017,iOS,3.5,0,0,10502,8,1,0
 Final Fantasy VII,Square Enix,2015,PlayStation 4,4,0,0,10802,16,1,0
 Final Fantasy VII Remake,Square Enix,2020,PlayStation 4/5,4.5,0,0,205,72,2,1
@@ -53,7 +56,7 @@ Horizon Zero Dawn: Complete Edition,Guerrilla,2017,PlayStation 4,4,1,1,10107,61,
 Hot Wheels Unleashed,Milestone,2021,PlayStation 5,2.5,0,0,10109,9,1,0
 Hue,Fiddlesticks Games,2016,PlayStation 4,3.5,1,0,405,7,1,0
 Human Resource Machine,Tomorrow Corporation,2015,iOS,3.5,0,0,10702,10,0,0
-Humanity,tha LTD,2023,PlayStation 5,3.5,0,0,10908,6,-1,0
+Humanity,tha LTD,2023,PlayStation 5,3.5,0,0,10908,13,-1,0
 Inside,Playdead,2016,PC,3.5,0,0,702,5,1,0
 Kena: Bridge of Spirits,Ember Lab,2021,PlayStation 5,3.5,0,0,10902,14,1,0
 Kingdom Hearts,Square Enix,2002,PlayStation 2,4,0,0,10008,70,3,0
@@ -118,7 +121,7 @@ Paper Mario: The Thousand-Year Door,Nintendo,2004,GameCube,4.5,0,0,606,15,0,0
 Pokemon Crystal,Game Freak,2000,Game Boy Color,3,0,0,10700,30,0,0
 Pokemon Mystery Dungeon: Blue Rescue Team,Chunsoft,2005,DS,3.5,0,0,10004,10,0,0
 Pokemon Y,Game Freak,2013,3DS,3,0,0,10104,15,0,0
-Powerwash Simulator,FuturLab,2022,PlayStation 5,3.5,0,0,10905,43,1,0
+Powerwash Simulator,FuturLab,2022,PlayStation 5,3.5,1,1,10905,52,1,0
 Prince of Persia: The Fallen King,Ubisoft,2008,DS,3,0,0,9,10,0,0
 Professor Layton and the Diabolical Box,Level-5,2007,DS,4,0,0,801,35,3,0
 Ratchet & Clank,Insomniac Games,2016,PlayStation 4,4,1,1,10505,20,1,0
