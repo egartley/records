@@ -224,7 +224,7 @@ while alphabet_index < len(alphabet) - 1:
     alphabet_index += 1
     listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
 listinghtml += "</div>\n"
-with open("game-records.html", mode="w") as outfile:
+with open("games.html", mode="w") as outfile:
     outfile.write(pageheader + signaturehtml + mischtml + listinghtml)
 
 iconcss = ""

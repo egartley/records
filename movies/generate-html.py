@@ -92,7 +92,7 @@ for movie in movie_list:
     #alphabet_index += 1
     #listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
 listinghtml += "</table>\n"
-with open("movie-records.html", mode="w") as outfile:
+with open("movies.html", mode="w") as outfile:
     outfile.write(pageheader + signaturehtml + quicknavhtml + listinghtml)
 
 print("Done!")
