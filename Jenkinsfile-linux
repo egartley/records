@@ -4,30 +4,38 @@ pipeline {
         choice(name: 'RECORDTYPE', choices: ['games', 'movies', 'khmom-scores', 'tfbl-scores'], description: 'Pick a record type')
     }
     stages {
-        stage('Build') {
+        stage("Build") {
             steps {
                 cleanWs()
                 script {
-                    def d = new Date()
-                    def now = d.format("yyyyMMddHHmmss")
-                    withCredentials([usernamePassword(credentialsId: 'GitHub', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) {
-                        sh """
-                            git clone https://github.com/egartley/records.git
-                            cd records/${params.RECORDTYPE}
-                            python3 generate-html.py
-                            cd ../../
-                            git clone https://${USERNAME}:${PASSWORD}@github.com/${USERNAME}/net.git
-                            cd net
-                            git remote set-url origin https://${USERNAME}:${PASSWORD}@github.com/${USERNAME}/net.git
-                            git checkout -b jenkins-${now}
-                            cp \"../records/${params.RECORDTYPE}/${params.RECORDTYPE}.html\" \"_pages/records/${params.RECORDTYPE}.html\"
-                            git add .
-                            git config --global user.email "evanmgartley@gmail.com"
-                            git config --global user.name \"${USERNAME}\"
-                            git commit -m \"Update ${params.RECORDTYPE} records\"
-                            git push --set-upstream origin jenkins-${now}
-                        """
-                    }
+                    d = new Date()
+                    now = d.format("yyyyMMddHHmmss")
+                }
+                sh "mkdir records"
+                dir("records") {
+                    git poll: false,
+                        url: 'https://github.com/egartley/records.git'
+                }
+                dir("records/${params.RECORDTYPE}") {
+                    sh "python3 generate-html.py"
+                }
+                withCredentials([usernamePassword(credentialsId: 'GitHub', usernameVariable: 'USER', passwordVariable: 'PAT')]) {
+                    sh '''
+                        git clone https://$USER:$PAT@github.com/$USER/net.git
+                        cd net
+                        git remote set-url origin https://$USER:$PAT@github.com/$USER/net.git
+                        git config --global user.email evanmgartley@gmail.com
+                        git config --global user.name $USER
+                    '''
+                }
+                dir("net") {
+                    sh """
+                        git checkout -b jenkins-${now}
+                        cp \"../records/${params.RECORDTYPE}/${params.RECORDTYPE}.html\" \"_pages/records/${params.RECORDTYPE}.html\"
+                        git add .
+                        git commit -m \"Update ${params.RECORDTYPE} records\"
+                        git push --set-upstream origin jenkins-${now}
+                    """
                 }
             }
         }
