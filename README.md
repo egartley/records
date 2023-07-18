@@ -4,6 +4,8 @@ These are python scripts for the record pages on egartley.net. Data from a CSV f
 
 Games: [https://egartley.net/records/games](https://egartley.net/records/games)
 
+Movies: [https://egartley.net/records/movies](https://egartley.net/records/movies)
+
 TFBL Scores: [https://egartley.net/records/tfbl-scores](https://egartley.net/records/tfbl-scores)
 
 KHMOM Scores: [https://egartley.net/records/khmom-scores](https://egartley.net/records/khmom-scores)
