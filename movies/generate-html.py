@@ -32,7 +32,7 @@ def get_listing_html(movie, qnid):
     content += "<td>" + str(movie.year) + "</td>"
     content += "<td>" + movie.rating + "</td>"
     content += "<td>" + movie.length + "</td>"
-    end = "</tr>"
+    end = "</tr>\n"
     return start + content + end
 
 
