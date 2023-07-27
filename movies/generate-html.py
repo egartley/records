@@ -1,6 +1,5 @@
 from datetime import datetime
 import csv
-import math
 
 
 class Movie:
@@ -87,10 +86,6 @@ for movie in movie_list:
     # proceed with regular listing html for current movie
     listinghtml += get_listing_html(movie, tempqn)
 
-# add remaining quick nav links
-#while alphabet_index < len(alphabet) - 1:
-    #alphabet_index += 1
-    #listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
 listinghtml += "</table>\n"
 with open("movies.html", mode="w") as outfile:
     outfile.write(pageheader + signaturehtml + quicknavhtml + listinghtml)

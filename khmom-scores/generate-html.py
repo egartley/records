@@ -1,6 +1,5 @@
 from datetime import datetime
 import csv
-import math
 
 
 class Song:
@@ -19,7 +18,7 @@ def get_series_nav_html():
     for song in song_list:
         if not song.series == lastseries:
             lastseries = song.series
-            content += "<a href=\"#qn-s" + str(i) + "\">" + song.series.replace("Bra?", "Bra&#9733;") + "</a><br>\n"
+            content += "<a href=\"#qn-s" + str(i) + "\">" + song.series + "</a><br>\n"
             i += 1
     return content
 

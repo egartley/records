@@ -1,6 +1,5 @@
 from datetime import datetime
 import csv
-import math
 
 
 class Song:
