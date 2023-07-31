@@ -169,7 +169,7 @@ signaturehtml += "a rough estimate of total play time, and number of playthrough
 signaturehtml += "have been 100% completed include a tag next to the title, as well as those where I've gotten its platinum "
 signaturehtml += "trophy on PSN. A vast majority of games were played on original hardware, but some of the older titles "
 signaturehtml += "were emulated on PC.</p>\n"
-signaturehtml += "<p>Click on a game to view more details about it. Some will have notes about how good or bad it was, why"
+signaturehtml += "<p>Click on a game to view more details about it. Some will have notes about how good or bad it was, why "
 signaturehtml += "they may have been abandoned, and other things like that.</p>\n"
 listinghtml = "<h2>All Games Played</h2>\n<div class=\"gamecard-container flex\">\n" + get_quicknav_anchor("#") + "\n"
 
