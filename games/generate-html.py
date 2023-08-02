@@ -36,11 +36,11 @@ def get_rating_html(rating):
     fullstars = rating // 1
     hashalf = not rating // 1 == rating
     empties = 5 - math.ceil(rating)
-    content = "<img src=\"/resources/png/wT9F00t1BuDE9wRx/sf.png\">" * int(fullstars)
+    content = "<img src=\"/resources/webp/wT9F00t1BuDE9wRx/sf.webp\">" * int(fullstars)
     if hashalf:
-        content += "<img src=\"/resources/png/wT9F00t1BuDE9wRx/sh.png\">"
+        content += "<img src=\"/resources/webp/wT9F00t1BuDE9wRx/sh.webp\">"
     if empties > 0:
-        content += "<img src=\"/resources/png/wT9F00t1BuDE9wRx/se.png\">" * int(empties)
+        content += "<img src=\"/resources/webp/wT9F00t1BuDE9wRx/se.webp\">" * int(empties)
     end = "</span>"
     return start + content + end
 
@@ -75,26 +75,26 @@ def get_listing_html(game):
     content += "</div>\n</div>\n"
     content += "<span class=\"gamecard-title\">" + game.title
     if game.dlc:
-        content += " <img id=\"dlc\" alt=\"dlc\" src=\"/resources/png/wT9F00t1BuDE9wRx/dlc.png\">"
+        content += " <img id=\"dlc\" alt=\"dlc\" src=\"/resources/webp/wT9F00t1BuDE9wRx/dlc.webp\">"
     if game.hundo:
-        content += " <img id=\"100\" alt=\"100\" src=\"/resources/png/wT9F00t1BuDE9wRx/100.png\">"
+        content += " <img id=\"100\" alt=\"100\" src=\"/resources/webp/wT9F00t1BuDE9wRx/100.webp\">"
     if game.plat:
-        content += "<img id=\"plat\" alt=\"plat\" src=\"/resources/png/wT9F00t1BuDE9wRx/plat.png\">"
+        content += "<img id=\"plat\" alt=\"plat\" src=\"/resources/webp/wT9F00t1BuDE9wRx/plat.webp\">"
     content += "</span>\n<span class=\"gamecard-playtext\" style=\"font-size:12px\">" + get_playtext(game) + "</span>"
     end = "</div>"
     return start + content + end
 
 def get_icon_css(iconid):
     # gets the css rule for the iconid
-    filename = "icons.png"
+    filename = "icons.webp"
     if not iconid[1:2] == "0":
         # support icon sheets from 2 to 9
-        filename = "icons" + str(int(iconid[1:2]) + 1) + ".png"
+        filename = "icons" + str(int(iconid[1:2]) + 1) + ".webp"
     x = int(iconid[4:6])
     x *= -64
     y = int(iconid[2:4])
     y *= -64
-    return "img#i" + iconid + "{background:url(/resources/png/wT9F00t1BuDE9wRx/" + filename + ") " + str(x) + "px " + str(y) + "px}"
+    return "img#i" + iconid + "{background:url(/resources/webp/wT9F00t1BuDE9wRx/" + filename + ") " + str(x) + "px " + str(y) + "px}"
 
 def calc_stats():
     for game in game_list:
