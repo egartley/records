@@ -18,18 +18,6 @@ class Game:
         self.playthroughs = playthroughs
         self.dlc = dlc
 
-
-def get_quicknav_html():
-    start = "<h2>Quick Navigation</h2>\n<p>\n"
-    end = "</p>\n"
-    links = "<a class=\"qn-link\" href=\"#qn-num\">#</a>\n"
-    for letter in alphabet:
-        links += "<a class=\"qn-link\" href=\"#qn-" + letter + "\">" + letter.upper() + "</a>\n"
-    return start + links + end
-
-def get_quicknav_anchor(letter):
-    return "<span id=\"qn-" + letter + "\"></span>"
-
 def get_rating_html(rating):
     # convert numeric 5-star rating to html
     start = "<span class=\"gamecard-rating flex\">"
@@ -171,11 +159,13 @@ signaturehtml += "trophy on PSN. A vast majority of games were played on origina
 signaturehtml += "were emulated on PC.</p>\n"
 signaturehtml += "<p>Click on a game to view more details about it. Some will have notes about how good or bad it was, why "
 signaturehtml += "they may have been abandoned, and other things like that.</p>\n"
-listinghtml = "<h2>All Games Played</h2>\n<div class=\"gamecard-container flex\">\n" + get_quicknav_anchor("#") + "\n"
+selecthtml = "<label for=\"sortby\">Sort games by:</label>\n<select name=\"sortby\" id=\"sortby\">\n"
+selecthtml += "<option selected=\"selected\" value=\"titleAZ\">Title A-Z (Default)</option><option value=\"titleZA\">Title Z-A</option>\n"
+selecthtml += "<option value=\"yearUp\">Year (Ascending)</option><option value=\"yearDown\">Year (Descending)</option>\n"
+selecthtml += "<option value=\"ratingUp\">Rating (Ascending)</option><option value=\"ratingDown\">Rating (Descending)</option>\n"
+selecthtml += "<option value=\"hoursUp\">Hours (Ascending)</option><option value=\"hoursDown\">Hours (Descending)</option></select>\n"
+listinghtml = "<h2>All Games Played</h2>" + selecthtml + "\n<div class=\"gamecard-container flex\">\n"
 
-alphabet_index = 0
-lastletter = ""
-nummode = True
 game_list = []
 iconcss = ""
 stat_ratings = [["5 stars", 0], ["4.5 stars", 0], ["4 stars", 0], ["3.5 stars", 0],
@@ -203,32 +193,13 @@ game_list = sorted(game_list, key=lambda game: game.title)
 # build non-listing html
 calc_stats()
 statshtml = get_stats_html()
-quicknavhtml = get_quicknav_html()
-mischtml = statshtml + quicknavhtml
 
 # build listing html
 for game in game_list:
-    lastletter = game.title[0:1].upper()
-    # check if finished with numbered titles
-    if nummode and lastletter.isalpha():
-        # finished with numbered titles, output quick link nav for A
-        nummode = False
-        listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
-    if not nummode:
-        while not alphabet[alphabet_index].upper() == lastletter:
-            # output quick nav link for the new letter
-            alphabet_index += 1
-            listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
-    # proceed with regular listing html for current game
     listinghtml += get_listing_html(game)
-
-# add remaining quick nav links
-while alphabet_index < len(alphabet) - 1:
-    alphabet_index += 1
-    listinghtml += get_quicknav_anchor(alphabet[alphabet_index]) + "\n"
 listinghtml += "</div>\n"
 with open("games.html", mode="w") as outfile:
-    outfile.write(pageheader + signaturehtml + mischtml + listinghtml)
+    outfile.write(pageheader + signaturehtml + statshtml + listinghtml)
 
 iconcss = ""
 for game in game_list:
