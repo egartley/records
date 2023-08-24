@@ -172,7 +172,7 @@ selecthtml += "<option value=\"playthroughs\">Playthroughs</option><option value
 selecthtml += "<option value=\"plat\">Platinum Trophy</option></select>\n"
 selecthtml += "<label class=\"filterby\" style=\"display:none\" for=\"filterby\">THISSHOULDNOTBEVISIBLE</label>\n"
 selecthtml += "<select name=\"filterby\" class=\"filterby\" style=\"display:none\">\n"
-selecthtml += "<option selected=\"selected\" value=\"itsnotworkingbud\">None (Default)</option>"
+selecthtml += "<option selected=\"selected\" value=\"itsnotworkingbud\">None (Default)</option></select>"
 listinghtml = "<h2>All Games Played</h2>" + selecthtml + "\n<div class=\"gamecard-container flex\">\n"
 
 game_list = []
