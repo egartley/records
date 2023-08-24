@@ -164,6 +164,15 @@ selecthtml += "<option selected=\"selected\" value=\"titleAZ\">Title A-Z (Defaul
 selecthtml += "<option value=\"yearUp\">Year (Ascending)</option><option value=\"yearDown\">Year (Descending)</option>\n"
 selecthtml += "<option value=\"ratingUp\">Rating (Ascending)</option><option value=\"ratingDown\">Rating (Descending)</option>\n"
 selecthtml += "<option value=\"hoursUp\">Hours (Ascending)</option><option value=\"hoursDown\">Hours (Descending)</option></select>\n"
+selecthtml += "<label for=\"filter\">Filter:</label><select name=\"filter\" id=\"filter\" style=\"margin-right:12px\">\n"
+selecthtml += "<option selected=\"selected\" value=\"none\">None (Default)</option>\n"
+selecthtml += "<option value=\"platform\">Platform</option><option value=\"rating\">Rating</option>\n"
+selecthtml += "<option value=\"year\">Release Year</option><option value=\"hours\">Hours Played</option>\n"
+selecthtml += "<option value=\"playthroughs\">Playthroughs</option><option value=\"hundo\">100% Completion</option>\n"
+selecthtml += "<option value=\"plat\">Platinum Trophy</option></select>\n"
+selecthtml += "<label class=\"filterby\" style=\"display:none\" for=\"filterby\">THISSHOULDNOTBEVISIBLE</label>\n"
+selecthtml += "<select name=\"filterby\" class=\"filterby\" style=\"display:none\">\n"
+selecthtml += "<option selected=\"selected\" value=\"itsnotworkingbud\">None (Default)</option>"
 listinghtml = "<h2>All Games Played</h2>" + selecthtml + "\n<div class=\"gamecard-container flex\">\n"
 
 game_list = []
