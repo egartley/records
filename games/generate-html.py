@@ -159,7 +159,7 @@ signaturehtml += "trophy on PSN. A vast majority of games were played on origina
 signaturehtml += "were emulated on PC.</p>\n"
 signaturehtml += "<p>Click on a game to view more details about it. Some will have notes about how good or bad it was, why "
 signaturehtml += "they may have been abandoned, and other things like that.</p>\n"
-selecthtml = "<label for=\"sortby\">Sort games by:</label>\n<select name=\"sortby\" id=\"sortby\">\n"
+selecthtml = "<label for=\"sortby\">Sort games by:</label>\n<select name=\"sortby\" id=\"sortby\" style=\"margin-right:12px\">\n"
 selecthtml += "<option selected=\"selected\" value=\"titleAZ\">Title A-Z (Default)</option><option value=\"titleZA\">Title Z-A</option>\n"
 selecthtml += "<option value=\"yearUp\">Year (Ascending)</option><option value=\"yearDown\">Year (Descending)</option>\n"
 selecthtml += "<option value=\"ratingUp\">Rating (Ascending)</option><option value=\"ratingDown\">Rating (Descending)</option>\n"
