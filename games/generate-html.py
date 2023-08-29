@@ -59,16 +59,20 @@ def get_listing_html(game):
         platform = "Mobile (iOS)"
     content = "<span class=\"gamecard-subtext\">" + game.year + "</span>\n"
     content += "<span class=\"gamecard-subtext\">" + platform + "</span>\n"
-    content += get_rating_html(game.rating) + "\n"
-    content += "</div>\n</div>\n"
-    content += "<span class=\"gamecard-title\">" + game.title
+    if game.dlc or game.hundo or game.plat:
+        content += "<span class=\"gamecard-icons\">"
     if game.dlc:
-        content += " <img id=\"dlc\" alt=\"dlc\" src=\"/resources/png/wT9F00t1BuDE9wRx/dlc.png\">"
+        content += "<span class=\"dlc\">DLC</span>"
     if game.hundo:
-        content += " <img id=\"100\" alt=\"100\" src=\"/resources/png/wT9F00t1BuDE9wRx/100.png\">"
+        content += "<span class=\"hundo\">100%</span>"
     if game.plat:
-        content += "<img id=\"plat\" alt=\"plat\" src=\"/resources/png/wT9F00t1BuDE9wRx/plat.png\">"
-    content += "</span>\n<span class=\"gamecard-playtext\" style=\"font-size:12px\">" + get_playtext(game) + "</span>"
+        content += "<img alt=\"plat\" src=\"/resources/png/wT9F00t1BuDE9wRx/plat.png\">"
+    if game.dlc or game.hundo or game.plat:
+        content += "</span>"
+    content += "</div>\n</div>\n"
+    content += "<span class=\"gamecard-title flex\">" + game.title + "</span>"
+    content += get_rating_html(game.rating)
+    content += "\n<span class=\"gamecard-playtext\">" + get_playtext(game) + "</span>"
     end = "</div>"
     return start + content + end
 
@@ -164,7 +168,7 @@ selecthtml += "<option selected=\"selected\" value=\"titleAZ\">Title A-Z (Defaul
 selecthtml += "<option value=\"yearUp\">Year (Ascending)</option><option value=\"yearDown\">Year (Descending)</option>\n"
 selecthtml += "<option value=\"ratingUp\">Rating (Ascending)</option><option value=\"ratingDown\">Rating (Descending)</option>\n"
 selecthtml += "<option value=\"hoursUp\">Hours (Ascending)</option><option value=\"hoursDown\">Hours (Descending)</option></select>\n"
-selecthtml += "<label for=\"filter\">Filter:</label><select name=\"filter\" id=\"filter\" style=\"margin-right:12px\">\n"
+selecthtml += "<label for=\"filter\">Filter: </label><select name=\"filter\" id=\"filter\" style=\"margin-right:12px\">\n"
 selecthtml += "<option selected=\"selected\" value=\"none\">None (Default)</option>\n"
 selecthtml += "<option value=\"platform\">Platform</option><option value=\"rating\">Rating</option>\n"
 selecthtml += "<option value=\"year\">Release Year</option><option value=\"hours\">Hours Played</option>\n"
