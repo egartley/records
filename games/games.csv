@@ -20,7 +20,8 @@ Casper: Spirit Dimensions,TDK Mediactive,2001,PlayStation 2,4,1,0,605,30,5,0,1
 Chicory: A Colorful Tale,Finji,2021,PlayStation 5,3.5,0,0,10707,9,1,0,0
 Cooking Mama,Cooking Mama Limited,2006,DS,2.5,0,0,607,4,1,0,1
 Crash Bandicoot 4: It's About Time,Toys for Bob,2020,PlayStation 4,3.5,0,0,800,10,1,0,0
-Cyberpunk 2077,CD Projekt RED,2020,PlayStation 4/5,3.5,1,1,509,113,2,0,1
+Cyberpunk 2077,CD Projekt RED,2020,PlayStation 4,3.5,1,1,509,113,2,0,1
+Cyberpunk 2077,CD Projekt RED,2022,PlayStation 5,4,1,1,509,52,1,0,0
 Dark Souls II: Scholar of the First Sin,FromSoftware,2015,PlayStation 4,4,0,0,10400,39,1,1,1
 Dark Souls III: The Fire Fades Edition,FromSoftware,2017,PlayStation 4,5,1,1,20002,87,3,1,1
 Dark Souls Remastered,FromSoftware,2018,PlayStation 4,4.5,0,0,20001,31,1,0,1
@@ -40,10 +41,12 @@ Everything,Double Fine Productions,2017,PC,3,0,0,20009,7,1,0,0
 EyeToy: Play 2,London Studio,2005,PlayStation 2,4,0,0,903,55,1,0,1
 Far Cry 3 Classic Edition,Ubisoft,2018,PlayStation 4,3.5,1,1,8,27,1,0,0
 Far Cry 5,Ubisoft,2018,PlayStation 4,3.5,0,0,10909,45,1,0,0
+Far Cry 6,Ubisoft,2021,PlayStation 5,3.5,0,0,20105,43,1,0,0
 Fez Pocket Edition,Polytron Corporation,2017,iOS,3.5,0,0,10502,8,1,0,0
 Final Fantasy Type-0 HD,Square Enix,2015,PlayStation 4,2,0,0,20003,5,0,0,0
 Final Fantasy VII,Square Enix,2015,PlayStation 4,4,0,0,10802,16,1,0,0
-Final Fantasy VII Remake,Square Enix,2020,PlayStation 4/5,4.5,0,0,205,72,2,1,0
+Final Fantasy VII Remake,Square Enix,2020,PlayStation 4,4.5,0,0,205,72,2,0,0
+Final Fantasy VII Remake Intergrade,Square Enix,2021,PlayStation 5,4.5,0,0,205,8,1,1,0
 Final Fantasy X HD Remaster,Square Enix,2015,PlayStation 4,3,0,0,10803,17,0,0,0
 Final Fantasy XV: Royal Edition,Square Enix,2016,PlayStation 4,4,1,1,708,55,1,0,0
 Ghost of Tsushima Director's Cut,Sucker Punch Productions,2021,PlayStation 5,4.5,1,1,10203,64,2,1,0
@@ -73,7 +76,7 @@ Kingdom Hearts Final Mix,Square Enix,2013,PlayStation 4,4.5,1,1,807,145,5,0,1
 Kingdom Hearts II,Square Enix,2005,PlayStation 2,4.5,1,0,7,60,2,0,1
 Kingdom Hearts II Final Mix,Square Enix,2014,PlayStation 4,5,1,1,10001,115,4,0,1
 Kingdom Hearts III,Square Enix,2019,PlayStation 4,4.5,1,1,506,150,3,1,1
-Kingdom Hearts Melody of Memory,Square Enix,2020,PlayStation 4,4,1,1,609,119,1,0,1
+Kingdom Hearts Melody of Memory,Square Enix,2020,PlayStation 4,4,1,1,609,126,1,0,1
 Kingdom Hearts Re: Chain of Memories,Square Enix,2013,PlayStation 4,1.5,0,0,404,5,-9,0,1
 LEGO Batman 3: Beyond Gotham,Traveller's Tales,2014,PlayStation 4,3,1,1,107,21,1,0,0
 LEGO Batman: The Videogame,Traveller's Tales,2008,PlayStation 2,3.5,1,0,10003,60,2,0,1
@@ -114,12 +117,13 @@ Myst III: Exile,Ubisoft,2002,PlayStation 2,3.5,0,0,5,30,0,0,1
 New Super Mario Bros.,Nintendo,2006,DS,4,0,0,409,60,3,0,1
 New Super Mario Bros. U Deluxe,Nintendo,2019,Switch,3,0,0,10406,3,0,0,0
 Nicktoons Movin',Mass Media,2004,PlayStation 2,3,0,0,701,20,1,0,1
+NieR Replicant ver.1.22474487139...,Cavia,2021,PlayStation 4,3,0,0,20106,16,-1,0,0
 Nintendogs: Best Friends,Nintendo,2005,DS,2.5,0,0,604,30,1,0,1
-Nioh,Team Ninja,2017,PlayStation 4,2.5,0,0,10705,3,-9,0,0
+Nioh,Team Ninja,2017,PlayStation 4,2.5,0,0,10705,3,0,0,0
 Observer: System Redux,Bloober Team,2020,PlayStation 4,3,0,0,10006,15,1,0,0
 Oddworld: Soulstorm Enhanced Edition,Oddworld Inhabitants,2021,PlayStation 5,2,0,0,10207,2,-9,0,0
 Omno,Studio InkyFox,2021,PlayStation 4,3,1,1,10609,8,1,0,0
-Outer Wilds,Mobius Digital,2019,PlayStation 4,2.5,0,0,703,2,-9,0,0
+Outer Wilds,Mobius Digital,2019,PlayStation 4,2.5,0,0,703,2,0,0,0
 Pac-Man World,Namco Hometek,1999,PlayStation 1,4.5,0,0,504,60,4,0,1
 Pac-Man World Re-Pac,Bandi Namco,2022,PlayStation 5,4,1,0,10907,9,1,0,0
 Paper Mario,Nintendo,2000,Nintendo 64,5,1,0,501,135,5,0,0
@@ -135,7 +139,8 @@ Ratchet & Clank,Insomniac Games,2016,PlayStation 4,4,1,1,10505,20,1,0,0
 Ratchet & Clank: Rift Apart,Insomniac Games,2021,PlayStation 5,4.5,1,1,20004,14,1,0,0
 Red Dead Redemption 2,Rockstar,2018,PlayStation 4,4.5,0,0,808,80,2,0,1
 Resident Evil 7: Biohazard,CAPCOM,2017,PlayStation 4,4,0,0,10202,15,1,0,0
-Resident Evil Village,CAPCOM,2021,PlayStation 4/5,5,1,0,503,75,6,0,1
+Resident Evil Village,CAPCOM,2021,PlayStation 4,5,1,0,503,63,6,0,1
+Resident Evil Village,CAPCOM,2021,PlayStation 5,5,0,0,503,12,0,0,0
 Returnal,Housemarque,2021,PlayStation 5,3,0,0,10209,16,0,0,0
 Rez Infinite,United Game Artists,2016,PlayStation 4,2.5,0,0,10302,2,1,0,0
 Sackboy: A Big Adventure,Sumo Digital,2020,PlayStation 5,2.5,0,0,20008,6,0,0,0
@@ -174,6 +179,7 @@ Super Smash Bros. Ultimate,Nintendo,2018,Switch,3,0,0,10501,8,1,0,1
 Tetris Effect: Connected,Enhance Games,2020,PlayStation 4,3.5,0,0,10301,17,1,0,0
 The Adventures of Cookie & Cream,FromSoftware,2001,PlayStation 2,2.5,0,0,204,10,1,0,1
 The Backyardigans: Super Spy Adventure,Nickelodeon,2007,Flash,2.5,0,0,10701,20,2,0,0
+The Callisto Protocol,Striking Distance Studios,2022,PlayStation 5,3.5,0,0,20107,1,-1,0,0
 The Dark Pictures Anthology: Little Hope,Supermassive Games,2020,PlayStation 5,3.5,0,0,10407,5,1,0,0
 The Dark Pictures Anthology: Man of Medan,Supermassive Games,2019,PlayStation 5,3,0,0,10205,6,2,0,0
 The Elder Scrolls III: Morrowind - Game of the Year Edition,Bethesda,2003,PC,4,0,0,10208,20,0,0,0
@@ -205,6 +211,7 @@ Theatrhythm Final Bar Line,Square Enix,2023,PlayStation 4,4.5,1,1,10704,125,1,0,
 Toy Story 2: Buzz Lightyear to the Rescue,Traveller's Tales,1999,PlayStation 1,5,1,0,700,44,4,0,1
 Uncharted 4: A Thief's End,Naughty Dog,2016,PlayStation 5,4,0,0,10809,13,1,0,0
 Uncharted: The Lost Legacy,Naughty Dog,2017,PlayStation 5,3.5,0,0,10900,5,1,0,0
+Unpacking,Witch Beam,2021,PlayStation 5,3,1,1,20104,4,1,0,0
 Until Dawn,Supermassive Games,2015,PlayStation 4,3,0,0,10709,7,1,0,0
 WairoWare D.I.Y.,Nintendo,2009,DS,4.5,0,0,10002,80,1,0,1
 Warframe,Digital Extremes,2018,Switch,4,0,0,10500,163,1,0,0
