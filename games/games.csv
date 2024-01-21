@@ -54,11 +54,11 @@ Final Fantasy XV: Royal Edition,Square Enix,2016,PlayStation 4,4,1,1,708,55,1,0,
 Ghost of Tsushima Director's Cut,Sucker Punch Productions,2021,PlayStation 5,4.5,1,1,10203,64,2,1,0
 Goat Simulator,Coffee Stain Publishing,2014,iOS,3.5,0,0,10604,3,0,0,0
 God of War,Santa Monica Studio,2018,PlayStation 4,4,1,1,10201,36,1,0,0
-Grand Theft Auto V,Rockstar Games,2022,PlayStation 5,3.5,0,0,20301,16,-1,0,0
+Grand Theft Auto V,Rockstar Games,2022,PlayStation 5,3.5,0,0,20301,28,1,0,0
 Grand Theft Auto: San Andreas,Rockstar Games,2013,iOS,4,1,0,402,120,4,0,0
 Harry Potter and the Sorcerer's Stone,Electronic Arts,2001,PlayStation 1,2.5,0,0,100,15,2,0,1
 Hollow Knight: Voidheart Edition,Team Cherry,2018,PlayStation 4,5,1,0,709,52,1,1,0
-Horizon Call of the Mountain,Guerrilla Games,2023,PSVR 2,4,0,0,20209,13,-1,0,0
+Horizon Call of the Mountain,Guerrilla Games,2023,PSVR 2,4,1,1,20209,16,1,0,0
 Horizon Forbidden West,Guerrilla Games,2022,PlayStation 5,4.5,1,1,10800,51,1,0,0
 Horizon Zero Dawn: Complete Edition,Guerrilla Games,2017,PlayStation 4,4,1,1,10107,61,2,1,0
 Hot Wheels Unleashed,Milestone,2021,PlayStation 5,2.5,0,0,10109,9,1,0,0
@@ -87,6 +87,7 @@ LEGO Batman 3: Beyond Gotham,Traveller's Tales,2014,PlayStation 4,3,1,1,107,21,1
 LEGO Batman: The Videogame,Traveller's Tales,2008,PlayStation 2,3.5,1,0,10003,60,2,0,1
 LEGO Bricktales,ClockStone Studio,2022,PlayStation 5,2.5,1,1,20202,9,1,0,0
 LEGO Builder's Journey,Light Brick Studios,2022,PlayStation 5,3,1,0,20203,2,1,0,0
+LEGO City: Undercover,Traveller's Tales,2017,PlayStation 4,3,0,0,20305,5,-1,0,0
 LEGO Harry Potter: Years 1-4,Traveller's Tales,2016,PlayStation 4,3.5,1,1,900,17,1,0,0
 LEGO Harry Potter: Years 5-7,Traveller's Tales,2016,PlayStation 4,3.5,1,1,901,17,1,0,0
 LEGO Indiana Jones: The Original Adventures,Traveller's Tales,2008,Wii,3,0,0,207,15,1,0,1
@@ -96,7 +97,7 @@ LEGO Pirates of the Caribbean: The Video Game,Traveller's Tales,2011,Wii,3.5,0,0
 LEGO Star Wars II: The Original Trilogy,Traveller's Tales,2006,PlayStation 2,4,0,0,706,40,3,0,1
 LEGO Star Wars: The Skywalker Saga,Traveller's Tales,2022,PlayStation 5,2.5,1,1,10308,53,1,0,1
 LEGO Star Wars: The Video Game,Traveller's Tales,2005,PlayStation 2,3.5,0,0,804,35,2,0,1
-Lies of P,Neowiz Games,2023,PlayStation 5,4,0,0,20204,1,-1,0,1
+Lies of P,Neowiz Games,2023,PlayStation 5,4.5,0,0,20204,4,-1,0,1
 Little Nightmares,Tarsier Studios,2017,PlayStation 4,3,0,0,905,7,1,0,0
 Mario & Luigi: Bowser's Inside Story,AlphaDream,2009,DS,5,1,0,805,105,3,0,1
 Mario & Luigi: Dream Team,AlphaDream,2013,3DS,4,0,0,508,28,1,0,0
@@ -146,6 +147,7 @@ Professor Layton and the Diabolical Box,Level-5,2007,DS,4,0,0,801,35,3,0,1
 Ratchet & Clank,Insomniac Games,2016,PlayStation 4,4,1,1,10505,20,1,0,0
 Ratchet & Clank: Rift Apart,Insomniac Games,2021,PlayStation 5,4.5,1,1,20004,14,1,0,0
 Red Dead Redemption 2,Rockstar Games,2018,PlayStation 4,4.5,0,0,808,80,2,0,1
+Resident Evil 2,CAPCOM,2022,PlayStation 5,4,0,0,20306,1,-1,0,0
 Resident Evil 4,CAPCOM,2023,PlayStation 5,4,0,0,20203,1,-1,0,1
 Resident Evil 7: Biohazard,CAPCOM,2017,PlayStation 4,4,0,0,10202,15,1,0,0
 Resident Evil Village,CAPCOM,2021,PlayStation 4,5,1,0,503,63,6,0,1
@@ -223,7 +225,7 @@ The Walking Dead,Telltale Games,2012,iOS,3,0,0,10807,20,1,0,0
 The Wither 3: Wild Hunt - Complete Edition,CD Projekt RED,2022,PlayStation 5,4,0,0,20206,51,1,1,0
 Theatrhythm Final Bar Line,Square Enix,2023,PlayStation 4,4.5,1,1,10704,125,1,0,1
 Thymesia,OverBorder Studio,2022,PlayStation 5,4,1,0,20200,13,1,0,0
-Tomb Raider: Definitive Edition,Crystal Dynamics,2014,PlayStation 4,3.5,0,0,20204,1,-1,1,0
+Tomb Raider: Definitive Edition,Crystal Dynamics,2014,PlayStation 4,3.5,1,0,20204,12,1,1,0
 Toy Story 2: Buzz Lightyear to the Rescue,Traveller's Tales,1999,PlayStation 1,5,1,0,700,44,4,0,1
 Uncharted 4: A Thief's End,Naughty Dog,2016,PlayStation 5,4,0,0,10809,13,1,0,0
 Uncharted: The Lost Legacy,Naughty Dog,2017,PlayStation 5,3.5,0,0,10900,5,1,0,0
