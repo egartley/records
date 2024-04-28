@@ -48,7 +48,7 @@ Far Cry 6,Ubisoft,2021,PlayStation 5,3,0,0,20105,43,1,0,0
 Fez Pocket Edition,Polytron Corporation,2017,iOS,3.5,0,0,10502,8,1,0,0
 Final Fantasy Type-0 HD,Square Enix,2015,PlayStation 4,2,0,0,20003,5,0,0,0
 Final Fantasy VII,Square Enix,2015,PlayStation 4,4,0,0,10802,16,1,0,0
-Final Fantasy VII Rebirth,Square Enix,2024,PlayStation 5,5,0,0,20402,84,1,0,1
+Final Fantasy VII Rebirth,Square Enix,2024,PlayStation 5,5,0,0,20402,85,1,0,1
 Final Fantasy VII Remake,Square Enix,2020,PlayStation 4,4.5,0,0,205,72,2,0,0
 Final Fantasy VII Remake Intergrade,Square Enix,2021,PlayStation 5,4.5,0,0,205,8,1,1,1
 Final Fantasy X HD Remaster,Square Enix,2015,PlayStation 4,3,0,0,10803,17,0,0,0
@@ -91,7 +91,6 @@ LEGO Batman: The Videogame,Traveller's Tales,2008,PlayStation 2,3.5,1,0,10003,60
 LEGO Bricktales,ClockStone Studio,2022,PlayStation 5,2.5,1,1,20202,9,1,0,0
 LEGO Builder's Journey,Light Brick Studios,2022,PlayStation 5,3,1,0,20203,2,1,0,0
 LEGO City: Undercover,Traveller's Tales,2017,PlayStation 4,2,1,1,20305,38,1,0,0
-LEGO DC Super-Villians,Traveller's Tales,2018,PlayStation 4,1.5,0,0,20406,2,-9,0,0
 LEGO Harry Potter: Years 1-4,Traveller's Tales,2016,PlayStation 4,3.5,1,1,900,17,1,0,0
 LEGO Harry Potter: Years 5-7,Traveller's Tales,2016,PlayStation 4,3.5,1,1,901,17,1,0,0
 LEGO Indiana Jones: The Original Adventures,Traveller's Tales,2008,Wii,3,0,0,207,15,1,0,1
@@ -149,12 +148,13 @@ Pokemon Y,Game Freak,2013,3DS,3,0,0,10104,15,0,0,1
 Powerwash Simulator,FuturLab,2022,PlayStation 5,3.5,1,1,10905,52,1,0,0
 Prince of Persia: The Fallen King,Ubisoft,2008,DS,3,0,0,9,10,0,0,1
 Professor Layton and the Diabolical Box,Level-5,2007,DS,4,0,0,801,35,3,0,1
+Puzzling Places,Realities.io Inc,2023,PSVR 2,3.5,0,0,20302,2,-1,0,0
 Ratchet & Clank,Insomniac Games,2016,PlayStation 4,4,1,1,10505,20,1,0,0
 Ratchet & Clank: Rift Apart,Insomniac Games,2021,PlayStation 5,4.5,1,1,20004,14,1,0,0
 Red Dead Redemption 2,Rockstar Games,2018,PlayStation 4,4.5,0,0,808,80,2,0,1
 Resident Evil 2,CAPCOM,2022,PlayStation 5,5,0,0,20306,15,2,0,0
 Resident Evil 3,CAPCOM,2022,PlayStation 5,4,0,0,20404,5,1,0,0
-Resident Evil 4,CAPCOM,2023,PlayStation 5,4.5,0,0,20203,2,-1,0,1
+Resident Evil 4,CAPCOM,2023,PlayStation 5,5,0,0,20203,19,1,0,1
 Resident Evil 7: Biohazard,CAPCOM,2017,PlayStation 4,4.5,0,0,10202,15,1,0,0
 Resident Evil Village,CAPCOM,2021,PlayStation 4,5,1,0,503,63,6,0,1
 Resident Evil Village,CAPCOM,2021,PlayStation 5,5,0,0,503,12,0,0,0
@@ -168,6 +168,7 @@ Scribblenauts,5th Cell,2009,DS,4.5,0,0,705,90,1,0,1
 Scribblenauts Unlimited,5th Cell,2012,PlayStation 4,3.5,1,0,10305,10,1,0,0
 Scribblenauts Unmasked: A DC Comics Adventure,5th Cell,2013,PlayStation 4,2.5,0,0,10306,4,1,0,0
 Sea of Stars,Sabotage Studio,2023,PlayStation 5,4.5,1,1,20103,41,1,0,0
+Sekiro: Shadows Die Twice,FromSoftware,2019,PlayStation 4,5,0,0,20406,23,-1,0,1
 Shadow of the Colossus,Bluepoint Games,2018,PlayStation 4,3.5,0,0,904,10,1,0,0
 Sky: Children of the Light,Thatgamecompany,2019,Switch,3,0,0,10404,23,2,0,0
 Sly 2: Band of Thieves,Sony Computer Entertainment,2004,PlayStation 2,3,0,0,301,10,1,0,1
