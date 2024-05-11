@@ -6,6 +6,7 @@ Abzu,Giant Squid,2016,PlayStation 4,2,1,0,10009,4,1,0,0
 ADR1FT,Three One Zero,2016,PlayStation 4,1,0,0,307,7,2,0,0
 Alan Wake Remastered,Remedy Entertainment,2021,PlayStation 5,2.5,0,0,20000,9,1,0,0
 Animal Crossing: Pocket Camp,Nintendo,2017,iOS,3.5,0,0,10602,34,1,0,0
+Animal Well,Shared Memory,2024,PlayStation 5,4.5,0,0,20502,3,-1,0,0
 Armored Core VI: Fires of Rubicon,FromSoftware,2023,PlayStation 5,4,0,0,20205,15,1,0,1
 Asphalt 9: Legends,Gameloft,2018,Switch,2.5,0,0,10402,12,0,0,0
 Astro's Playroom,Sony Interactive Entertainment,2020,PlayStation 5,3.5,1,1,10508,6,1,0,0
@@ -22,8 +23,8 @@ Casper: Spirit Dimensions,TDK Mediactive,2001,PlayStation 2,4,1,0,605,30,5,0,1
 Chicory: A Colorful Tale,Finji,2021,PlayStation 5,3.5,0,0,10707,9,1,0,0
 Cooking Mama,Cooking Mama Limited,2006,DS,2.5,0,0,607,4,1,0,1
 Crash Bandicoot 4: It's About Time,Toys for Bob,2020,PlayStation 4,3.5,0,0,800,10,1,0,0
-Cyberpunk 2077,CD Projekt RED,2020,PlayStation 4,3.5,1,1,509,113,2,0,1
 Cyberpunk 2077,CD Projekt RED,2022,PlayStation 5,4,1,1,509,52,1,0,0
+Cyberpunk 2077,CD Projekt RED,2020,PlayStation 4,3.5,1,1,509,113,2,0,1
 Dark Souls II: Scholar of the First Sin,FromSoftware,2015,PlayStation 4,4.5,0,0,10400,72,2,1,1
 Dark Souls III: The Fire Fades Edition,FromSoftware,2017,PlayStation 4,5,1,1,20002,87,3,1,1
 Dark Souls Remastered,FromSoftware,2018,PlayStation 4,4.5,0,0,20001,31,1,0,1
@@ -31,7 +32,6 @@ Death Stranding: Director's Cut,Kojima Productions,2021,PlayStation 5,4,0,0,1010
 Death's Door,Acid Nerve,2021,PlayStation 5,4,1,0,20007,11,1,0,0
 Demon's Souls,Bluepoint Games,2020,PlayStation 5,3.5,0,0,10206,39,1,0,1
 Detroit: Become Human,Quantic Dream,2018,PlayStation 4,3.5,0,0,10801,21,1,0,0
-Devil May Cry 5 Special Edition,CAPCOM,2020,PlayStation 5,2.5,0,0,10703,2,-9,0,0
 Disney's Chicken Little,Avalanche Software,2006,PlayStation 2,3.5,1,0,102,15,2,0,1
 DOOM (2016),id Software,2016,PlayStation 4,3.5,0,0,6,17,1,0,0
 Doom Eternal,id Software,2020,PlayStation 5,3,0,0,10904,5,0,0,0
@@ -105,7 +105,6 @@ Little Nightmares,Tarsier Studios,2017,PlayStation 4,3,0,0,905,7,1,0,0
 Mario & Luigi: Bowser's Inside Story,AlphaDream,2009,DS,5,1,0,805,105,3,0,1
 Mario & Luigi: Dream Team,AlphaDream,2013,3DS,4,0,0,508,28,1,0,0
 Mario & Luigi: Paper Jam,AlphaDream,2015,3DS,3,0,0,10102,19,1,0,0
-Mario + Rabbids Kingdom Battle,Ubisoft,2017,Switch,2.5,0,0,10405,2,-9,0,0
 Mario Kart 7,Nintendo,2011,3DS,3.5,0,0,10307,7,1,0,0
 Mario Kart 8 Deluxe,Nintendo,2017,Switch,4.5,0,0,704,15,1,0,0
 Mario Kart DS,Nintendo,2005,DS,5,1,0,200,110,1,0,1
@@ -134,7 +133,6 @@ NieR Replicant ver.1.22474487139...,Cavia,2021,PlayStation 4,3,0,0,20106,19,1,0,
 Nintendogs: Best Friends,Nintendo,2005,DS,2.5,0,0,604,30,1,0,1
 Nioh,Team Ninja,2017,PlayStation 4,2.5,0,0,10705,3,0,0,0
 Observer: System Redux,Bloober Team,2020,PlayStation 4,3,0,0,10006,15,1,0,0
-Oddworld: Soulstorm Enhanced Edition,Oddworld Inhabitants,2021,PlayStation 5,2,0,0,10207,2,-9,0,0
 Omno,Studio InkyFox,2021,PlayStation 4,3,1,1,10609,8,1,0,0
 Outer Wilds,Mobius Digital,2019,PlayStation 4,2.5,0,0,703,2,0,0,0
 Pac-Man World,Namco Hometek,1999,PlayStation 1,4.5,0,0,504,60,4,0,1
@@ -148,7 +146,7 @@ Pokemon Y,Game Freak,2013,3DS,3,0,0,10104,15,0,0,1
 Powerwash Simulator,FuturLab,2022,PlayStation 5,3.5,1,1,10905,52,1,0,0
 Prince of Persia: The Fallen King,Ubisoft,2008,DS,3,0,0,9,10,0,0,1
 Professor Layton and the Diabolical Box,Level-5,2007,DS,4,0,0,801,35,3,0,1
-Puzzling Places,Realities.io Inc,2023,PSVR 2,3.5,0,0,20302,2,-1,0,0
+Puzzling Places,Realities.io Inc,2023,PSVR 2,3.5,1,0,20302,3,1,0,0
 Ratchet & Clank,Insomniac Games,2016,PlayStation 4,4,1,1,10505,20,1,0,0
 Ratchet & Clank: Rift Apart,Insomniac Games,2021,PlayStation 5,4.5,1,1,20004,14,1,0,0
 Red Dead Redemption 2,Rockstar Games,2018,PlayStation 4,4.5,0,0,808,80,2,0,1
@@ -156,9 +154,9 @@ Resident Evil 2,CAPCOM,2022,PlayStation 5,5,0,0,20306,15,2,0,0
 Resident Evil 3,CAPCOM,2022,PlayStation 5,4,0,0,20404,5,1,0,0
 Resident Evil 4,CAPCOM,2023,PlayStation 5,5,0,0,20203,19,1,0,1
 Resident Evil 7: Biohazard,CAPCOM,2017,PlayStation 4,4.5,0,0,10202,15,1,0,0
-Resident Evil Village,CAPCOM,2021,PlayStation 4,5,1,0,503,63,6,0,1
 Resident Evil Village,CAPCOM,2021,PlayStation 5,5,0,0,503,12,0,0,0
-Resident Evil Village VR Mode,CAPCOM,2023,PSVR 2,5,0,0,20300,8,-1,0,0
+Resident Evil Village,CAPCOM,2021,PlayStation 4,5,1,0,503,63,6,0,1
+Resident Evil Village VR Mode,CAPCOM,2023,PSVR 2,5,0,0,20300,9,-1,0,0
 Returnal,Housemarque,2021,PlayStation 5,3,0,0,10209,16,0,0,0
 Rez Infinite,United Game Artists,2016,PlayStation 4,2.5,0,0,10302,2,1,0,0
 Sackboy: A Big Adventure,Sumo Digital,2020,PlayStation 5,2.5,0,0,20008,6,0,0,0
@@ -168,7 +166,7 @@ Scribblenauts,5th Cell,2009,DS,4.5,0,0,705,90,1,0,1
 Scribblenauts Unlimited,5th Cell,2012,PlayStation 4,3.5,1,0,10305,10,1,0,0
 Scribblenauts Unmasked: A DC Comics Adventure,5th Cell,2013,PlayStation 4,2.5,0,0,10306,4,1,0,0
 Sea of Stars,Sabotage Studio,2023,PlayStation 5,4.5,1,1,20103,41,1,0,0
-Sekiro: Shadows Die Twice,FromSoftware,2019,PlayStation 4,5,0,0,20406,23,-1,0,1
+Sekiro: Shadows Die Twice,FromSoftware,2019,PlayStation 4,5,1,1,20406,58,4,0,1
 Shadow of the Colossus,Bluepoint Games,2018,PlayStation 4,3.5,0,0,904,10,1,0,0
 Sky: Children of the Light,Thatgamecompany,2019,Switch,3,0,0,10404,23,2,0,0
 Sly 2: Band of Thieves,Sony Computer Entertainment,2004,PlayStation 2,3,0,0,301,10,1,0,1
@@ -227,7 +225,6 @@ The Legend of Zelda: Skyward Sword HD,Nintendo,2021,Switch,4.5,1,0,303,60,2,0,1
 The Legend of Zelda: Tears of the Kingdom,Nintendo,2023,Switch,5,0,0,10906,145,1,0,1
 The LEGO Movie Videogame,Traveller's Tales,2014,PlayStation 4,3.5,1,1,308,17,1,0,0
 The Medium,Bloober Team,2021,PlayStation 4,3,0,0,10108,7,1,0,0
-The Outer Worlds: Spacer's Choice Edition,Obsidian Entertainment,2023,PlayStation 5,2.5,0,0,20405,2,0,1,0
 The Polar Express,Tantalus Interactive,2004,Game Boy Advance,3,0,0,208,10,2,0,1
 The Quarry,Supermassive Games,2022,PlayStation 5,3.5,1,0,10804,15,2,0,0
 The Rescue of Princess Blobette,Imagineering,1991,Game Boy,2,0,0,408,5,0,0,1
@@ -238,6 +235,7 @@ Theatrhythm Final Bar Line,Square Enix,2023,PlayStation 4,4.5,1,1,10704,125,1,0,
 Thymesia,OverBorder Studio,2022,PlayStation 5,4,1,0,20200,13,1,0,0
 Tomb Raider: Definitive Edition,Crystal Dynamics,2014,PlayStation 4,3.5,1,0,20204,12,1,1,0
 Toy Story 2: Buzz Lightyear to the Rescue,Traveller's Tales,1999,PlayStation 1,5,1,0,700,44,4,0,1
+Tunic,Isometricorp Games,2022,PlayStation 5,3.5,1,1,20501,12,1,0,0
 Uncharted 4: A Thief's End,Naughty Dog,2016,PlayStation 5,4,0,0,10809,13,1,0,0
 Uncharted: The Lost Legacy,Naughty Dog,2017,PlayStation 5,3.5,0,0,10900,5,1,0,0
 Unpacking,Witch Beam,2021,PlayStation 5,3,1,1,20104,4,1,0,0
