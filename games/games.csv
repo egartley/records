@@ -4,16 +4,18 @@ A Bug's Life,Traveller's Tales,1998,PlayStation 1,4,1,0,201,48,6,0,1
 A Plague Tale: Requiem,Asobo Studio,2022,PlayStation 5,4,1,0,20309,18,1,0,0
 Abzu,Giant Squid,2016,PlayStation 4,2,1,0,10009,4,1,0,0
 ADR1FT,Three One Zero,2016,PlayStation 4,1,0,0,307,7,2,0,0
-Alan Wake Remastered,Remedy Entertainment,2021,PlayStation 5,2.5,0,0,20000,9,1,0,0
+Alan Wake Remastered,Remedy Entertainment,2021,PlayStation 5,3,0,0,20000,9,1,0,0
 Animal Crossing: Pocket Camp,Nintendo,2017,iOS,3.5,0,0,10602,34,1,0,0
-Animal Well,Shared Memory,2024,PlayStation 5,4.5,1,1,20502,14,1,0,0
+Animal Well,Shared Memory,2024,PlayStation 5,5,1,1,20502,14,1,0,0
 Armored Core VI: Fires of Rubicon,FromSoftware,2023,PlayStation 5,4,0,0,20205,15,1,0,1
 Asphalt 9: Legends,Gameloft,2018,Switch,2.5,0,0,10402,12,0,0,0
-Astro's Playroom,Sony Interactive Entertainment,2020,PlayStation 5,3.5,1,1,10508,6,1,0,0
+Astro's Playroom,Sony Interactive Entertainment,2020,PlayStation 5,3.5,1,1,10508,7,1,0,0
 Balan Wonderworld,Arzest,2021,PlayStation 4,0.5,0,0,601,16,1,0,0
-Batman: Arkham Knight,Warner Bros,2015,PlayStation 4,3.5,0,0,10101,4,0,0,0
+Batman: Arkham Knight,Warner Bros,2015,PlayStation 4,3,0,0,10101,4,0,0,0
 Biomutant,Experiment 101,2021,PlayStation 5,3.5,1,1,10300,40,1,0,0
 Bloodborne,FromSoftware,2015,PlayStation 4,5,1,1,0,78,3,1,1
+Braid: Anniversary Edition,Thekla Inc,2024,PlayStation 5,3,0,0,20507,3,0,0,0
+Brain Age 2: More Training in Minutes a Day!,Nintendo,2005,DS,3,0,0,20508,22,1,0,1
 Brain Age: Train Your Brain in Minutes a Day!,Nintendo,2005,DS,3,0,0,10100,30,1,0,1
 Bugs Bunny: Lost in Time,Behaviour Interactive,1999,PlayStation 1,4.5,1,0,400,35,6,0,1
 Bugsnax,Young Horses,2020,PlayStation 5,3,1,1,10304,18,1,1,0
@@ -23,11 +25,11 @@ Casper: Spirit Dimensions,TDK Mediactive,2001,PlayStation 2,4,1,0,605,30,5,0,1
 Chicory: A Colorful Tale,Finji,2021,PlayStation 5,3.5,0,0,10707,9,1,0,0
 Cooking Mama,Cooking Mama Limited,2006,DS,2.5,0,0,607,4,1,0,1
 Crash Bandicoot 4: It's About Time,Toys for Bob,2020,PlayStation 4,3.5,0,0,800,10,1,0,0
-Cyberpunk 2077,CD Projekt RED,2020,PlayStation 4,3.5,1,1,509,113,2,0,1
 Cyberpunk 2077,CD Projekt RED,2022,PlayStation 5,4,1,1,509,52,1,0,0
+Cyberpunk 2077,CD Projekt RED,2020,PlayStation 4,3.5,1,1,509,113,2,0,1
 Dark Souls II: Scholar of the First Sin,FromSoftware,2015,PlayStation 4,4.5,0,0,10400,72,2,1,1
 Dark Souls III: The Fire Fades Edition,FromSoftware,2017,PlayStation 4,5,1,1,20002,87,3,1,1
-Dark Souls Remastered,FromSoftware,2018,PlayStation 4,4.5,0,0,20001,31,1,0,1
+Dark Souls Remastered,FromSoftware,2018,PlayStation 4,4.5,0,0,20001,31,1,1,1
 Death Stranding: Director's Cut,Kojima Productions,2021,PlayStation 5,4,0,0,10106,52,1,0,0
 Death's Door,Acid Nerve,2021,PlayStation 5,4,1,0,20007,11,1,0,0
 Demon's Souls,Bluepoint Games,2020,PlayStation 5,3.5,0,0,10206,39,1,0,1
@@ -36,9 +38,9 @@ Disney's Chicken Little,Avalanche Software,2006,PlayStation 2,3.5,1,0,102,15,2,0
 DOOM (2016),id Software,2016,PlayStation 4,3.5,0,0,6,17,1,0,0
 Doom Eternal,id Software,2020,PlayStation 5,3,0,0,10904,5,0,0,0
 Dreamworks Madagascar,Toys for Bob,2005,PlayStation 2,3.5,1,0,507,15,2,0,1
-Elden Ring,FromSoftware,2022,PlayStation 5,5,1,1,10309,83,1,0,1
+Elden Ring,FromSoftware,2022,PlayStation 5,5,1,1,10309,236,1,1,1
 Entwined,PixelOpus,2014,PlayStation 4,2.5,0,0,10706,3,1,0,0
-Epic Mickey,Disney Interactive Studios,2010,Wii,3,0,0,909,15,1,0,1
+Epic Mickey,Disney Interactive Studios,2010,Wii,3.5,0,0,909,15,1,0,1
 Everything,Double Fine Productions,2017,PC,3,0,0,20009,7,1,0,0
 EyeToy: Play 2,London Studio,2005,PlayStation 2,4,0,0,903,55,1,0,1
 Fallout 4,Bethesda,2015,PlayStation 4,3,0,0,20109,42,1,0,0
@@ -84,17 +86,17 @@ Kingdom Hearts II,Square Enix,2005,PlayStation 2,4.5,1,0,7,60,2,0,1
 Kingdom Hearts II Final Mix,Square Enix,2014,PlayStation 4,5,1,1,10001,115,4,0,1
 Kingdom Hearts III,Square Enix,2019,PlayStation 4,4.5,1,1,506,161,4,1,1
 Kingdom Hearts Melody of Memory,Square Enix,2020,PlayStation 4,4.5,1,1,609,126,1,0,1
-Kingdom Hearts Re: Chain of Memories,Square Enix,2013,PlayStation 4,1.5,0,0,404,5,0,0,1
+Kingdom Hearts Re: Chain of Memories,Square Enix,2013,PlayStation 4,1,0,0,404,5,0,0,1
 LEGO 2K Drive,Visual Concepts Entertainment,2023,PlayStation 5,2,0,0,20208,8,1,0,0
 LEGO Batman 3: Beyond Gotham,Traveller's Tales,2014,PlayStation 4,3,1,1,107,21,1,0,0
 LEGO Batman: The Videogame,Traveller's Tales,2008,PlayStation 2,3.5,1,0,10003,60,2,0,1
 LEGO Bricktales,ClockStone Studio,2022,PlayStation 5,2.5,1,1,20202,9,1,0,0
 LEGO Builder's Journey,Light Brick Studios,2022,PlayStation 5,3,1,0,20203,2,1,0,0
-LEGO City: Undercover,Traveller's Tales,2017,PlayStation 4,2,1,1,20305,38,1,0,0
-LEGO Harry Potter: Years 1-4,Traveller's Tales,2016,PlayStation 4,3.5,1,1,900,17,1,0,0
-LEGO Harry Potter: Years 5-7,Traveller's Tales,2016,PlayStation 4,3.5,1,1,901,17,1,0,0
+LEGO City: Undercover,Traveller's Tales,2017,PlayStation 4,3,1,1,20305,38,1,0,0
+LEGO Harry Potter: Years 1-4,Traveller's Tales,2016,PlayStation 4,4,1,1,900,17,1,0,0
+LEGO Harry Potter: Years 5-7,Traveller's Tales,2016,PlayStation 4,4,1,1,901,17,1,0,0
 LEGO Indiana Jones: The Original Adventures,Traveller's Tales,2008,Wii,3,0,0,207,15,1,0,1
-LEGO Jurassic World,Traveller's Tales,2015,PlayStation 4,3,1,1,10303,25,1,0,0
+LEGO Jurassic World,Traveller's Tales,2015,PlayStation 4,3.5,1,1,10303,25,1,0,0
 LEGO Lord of the Rings,Traveller's Tales,2012,3DS,3,1,0,4,12,1,0,0
 LEGO Pirates of the Caribbean: The Video Game,Traveller's Tales,2011,Wii,3.5,0,0,500,35,2,0,1
 LEGO Star Wars II: The Original Trilogy,Traveller's Tales,2006,PlayStation 2,4,0,0,706,40,3,0,1
@@ -110,15 +112,15 @@ Mario Kart 8 Deluxe,Nintendo,2017,Switch,4.5,0,0,704,15,1,0,0
 Mario Kart DS,Nintendo,2005,DS,5,1,0,200,110,1,0,1
 Mario Kart Tour,Nintendo,2019,iOS,3,0,0,10601,20,1,0,0
 Mario Kart Wii,Nintendo,2008,Wii,5,1,0,10000,75,1,0,1
-Mario Party 9,Nintendo,2012,Wii,2.5,0,0,105,2,1,0,0
+Mario Party 9,Nintendo,2012,Wii,3,0,0,105,2,1,0,0
 Mario Party DS,Nintendo,2005,DS,4,0,0,908,50,1,0,1
 Marvel's Spider-Man,Insomniac Games,2018,PlayStation 4,4,0,0,403,26,1,0,0
 Marvel's Spider-Man: Miles Morales,Insomniac Games,2020,PlayStation 5,3.5,0,0,10708,18,1,0,0
 Meet the Robinsons,Avalanche Software,2007,PlayStation 2,4,1,0,305,30,6,0,1
-Middle-earth: Shadow of Mordor,Monolith Productions,2014,PlayStation 4,2,1,0,10608,20,1,0,0
-Minecraft,Mojang,2010,PC,4.5,0,0,209,305,1,0,0
+Middle-earth: Shadow of Mordor,Monolith Productions,2014,PlayStation 4,2.5,1,0,10608,20,1,0,0
+Minecraft,Mojang,2010,PC,5,0,0,209,305,1,0,0
 Minecraft Dungeons,Mojang,2020,PlayStation 4,3.5,0,0,10808,12,1,0,0
-Minecraft Earth,Mojang,2019,iOS,3,0,0,10600,10,1,0,0
+Minecraft Earth,Mojang,2019,iOS,2,0,0,10600,10,1,0,0
 Minecraft Pocket Edition,Mojang,2012,iOS,4,0,0,10606,130,1,0,0
 Moonscars,Black Mermaid,2022,PlayStation 5,4,1,0,20307,11,1,0,0
 Mortal Shell: Enhanced Edition,Cold Symmetry,2020,PlayStation 5,3.5,0,0,10901,16,1,0,0
@@ -129,7 +131,7 @@ Myst III: Exile,Ubisoft,2002,PlayStation 2,3.5,0,0,5,30,0,0,1
 New Super Mario Bros.,Nintendo,2006,DS,4,0,0,409,60,3,0,1
 Nicktoons Movin',Mass Media,2004,PlayStation 2,3,0,0,701,20,1,0,1
 NieR Replicant ver.1.22474487139...,Cavia,2021,PlayStation 4,3,0,0,20106,19,1,0,0
-Nintendogs: Best Friends,Nintendo,2005,DS,2.5,0,0,604,30,1,0,1
+Nintendogs: Best Friends,Nintendo,2005,DS,3,0,0,604,30,1,0,1
 Nioh,Team Ninja,2017,PlayStation 4,2.5,0,0,10705,3,0,0,0
 Observer: System Redux,Bloober Team,2020,PlayStation 4,3,0,0,10006,15,1,0,0
 Omno,Studio InkyFox,2021,PlayStation 4,3,1,1,10609,8,1,0,0
@@ -137,7 +139,7 @@ Outer Wilds,Mobius Digital,2019,PlayStation 4,2.5,0,0,703,2,0,0,0
 Pac-Man World,Namco Hometek,1999,PlayStation 1,4.5,0,0,504,60,4,0,1
 Pac-Man World Re-Pac,Bandi Namco,2022,PlayStation 5,4,1,0,10907,9,1,0,0
 Paper Mario,Nintendo,2000,Nintendo 64,5,1,0,501,135,5,0,0
-Paper Mario: Sticker Star,Nintendo,2012,3DS,2.5,0,0,20503,2,-1,0,0
+Paper Mario: Sticker Star,Nintendo,2012,3DS,2.5,0,0,20503,14,0,0,0
 Paper Mario: The Origami King,Nintendo,2020,Switch,4,1,0,2,70,2,0,0
 Paper Mario: The Thousand-Year Door,Nintendo,2004,GameCube,4.5,0,0,606,15,0,0,0
 Pokemon Crystal,Game Freak,2000,Game Boy Color,3,0,0,10700,30,0,0,1
@@ -154,15 +156,15 @@ Resident Evil 2,CAPCOM,2022,PlayStation 5,5,0,0,20306,15,2,0,0
 Resident Evil 3,CAPCOM,2022,PlayStation 5,4,0,0,20404,5,1,0,0
 Resident Evil 4,CAPCOM,2023,PlayStation 5,5,0,0,20203,19,1,0,1
 Resident Evil 7: Biohazard,CAPCOM,2017,PlayStation 4,4.5,0,0,10202,15,1,0,0
+Resident Evil Village,CAPCOM,2021,PlayStation 5,5,1,0,503,16,1,0,0
 Resident Evil Village,CAPCOM,2021,PlayStation 4,5,1,0,503,63,6,0,1
-Resident Evil Village,CAPCOM,2021,PlayStation 5,5,0,0,503,14,1,0,0
-Resident Evil Village VR Mode,CAPCOM,2023,PSVR 2,5,0,0,20300,12,-1,0,0
+Resident Evil Village VR Mode,CAPCOM,2023,PSVR 2,5,0,0,20300,16,-1,0,0
 Returnal,Housemarque,2021,PlayStation 5,3,0,0,10209,16,0,0,0
 Rez Infinite,United Game Artists,2016,PlayStation 4,2.5,0,0,10302,2,1,0,0
 Sackboy: A Big Adventure,Sumo Digital,2020,PlayStation 5,2.5,0,0,20008,6,0,0,0
 Samurai Jack: The Amulet of Time,BAM! Entertainment,2003,Game Boy Advance,3,0,0,10806,35,0,0,1
 Scooby-Doo! Night of 100 Frights,Heavy Iron Studios,2002,PC,3,0,0,10504,20,1,0,1
-Scribblenauts,5th Cell,2009,DS,4.5,0,0,705,90,1,0,1
+Scribblenauts,5th Cell,2009,DS,5,0,0,705,90,1,0,1
 Scribblenauts Unlimited,5th Cell,2012,PlayStation 4,3.5,1,0,10305,10,1,0,0
 Scribblenauts Unmasked: A DC Comics Adventure,5th Cell,2013,PlayStation 4,2.5,0,0,10306,4,1,0,0
 Sea of Stars,Sabotage Studio,2023,PlayStation 5,4.5,1,1,20103,41,1,0,0
@@ -171,14 +173,18 @@ Shadow of the Colossus,Bluepoint Games,2018,PlayStation 4,3.5,0,0,904,10,1,0,0
 Sky: Children of the Light,Thatgamecompany,2019,Switch,3,0,0,10404,23,2,0,0
 Sky: Children of the Light,Thatgamecompany,2019,iOS,3,0,0,10404,31,3,0,0
 Sly 2: Band of Thieves,Sony Computer Entertainment,2004,PlayStation 2,3,0,0,301,10,1,0,1
-SOMA,Frictional Games,2015,PlayStation 4,2.5,1,0,406,8,1,0,0
+SOMA,Frictional Games,2015,PlayStation 4,3,1,0,406,8,1,0,0
+Sonic Frontiers,Sonic Team,2022,PlayStation 5,3.5,0,1,20506,18,1,0,0
 South Park: The Fractured but Whole,Ubisoft,2017,PlayStation 4,3.5,0,0,10507,25,1,0,0
 South Park: The Stick of Truth,Ubisoft,2014,PlayStation 4,4,0,0,10506,30,1,0,0
 Spongebob Squarepants: Battle for Bikini Bottom - Rehydrated,THQ Nordic,2019,PlayStation 4,3,0,0,20006,7,1,0,0
+Spongebob Squarepants: The Cosmic Shake,THQ Nordic,2023,PlayStation 5,3.5,1,1,20505,11,1,0,0
 Spore,Electronic Arts,2008,PC,3,0,0,20400,12,0,0,0
 Spyro 2: Ripto's Rage!,Insomniac Games,1999,PlayStation 1,4.5,1,1,505,130,7,0,1
 Spyro Orange: The Cortex Conspiracy,Vicarious Visions,2004,Game Boy Advance,3.5,0,0,10105,35,2,0,1
-Spyro Reignited Triology,Activision,2018,PlayStation 4,4.5,1,0,806,210,11,0,1
+Spyro Reignited Triology,Toys for Bob,2018,PC,4.5,0,0,806,5,-1,0,0
+Spyro Reignited Triology,Toys for Bob,2019,Switch,4.5,1,0,806,80,4,0,0
+Spyro Reignited Triology,Toys for Bob,2018,PlayStation 4,4.5,1,0,806,130,7,0,1
 Spyro the Dragon,Insomniac Games,1998,PlayStation 1,5,1,1,202,165,9,0,1
 Spyro: A Hero's Tail,Sierra Entertainment,2004,PlayStation 2,2.5,0,0,407,15,0,0,0
 Spyro: Year of the Dragon,Insomniac Games,2000,PlayStation 1,5,1,1,907,115,6,0,1
@@ -225,6 +231,7 @@ The Legend of Zelda: Phantom Hourglass,Nintendo,2007,DS,2.5,0,0,401,3,0,0,0
 The Legend of Zelda: Skyward Sword,Nintendo,2011,Wii,4,1,0,707,95,3,0,1
 The Legend of Zelda: Skyward Sword HD,Nintendo,2021,Switch,4.5,1,0,303,60,2,0,1
 The Legend of Zelda: Tears of the Kingdom,Nintendo,2023,Switch,5,0,0,10906,145,1,0,1
+The LEGO Movie 2 Videogame,Traveller's Tales,2019,PlayStation 4,3,1,1,20504,12,1,0,0
 The LEGO Movie Videogame,Traveller's Tales,2014,PlayStation 4,3.5,1,1,308,17,1,0,0
 The Medium,Bloober Team,2021,PlayStation 4,3,0,0,10108,7,1,0,0
 The Polar Express,Tantalus Interactive,2004,Game Boy Advance,3,0,0,208,10,2,0,1
