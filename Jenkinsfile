@@ -44,7 +44,7 @@ pipeline {
                     """
                     script {
                         if (params.RECORDTYPE == "games") {
-                            sh "cp \"../records/games/game-records-icons.css\" \"stylesheets/game-records-icons.css\""
+                            sh "cp \"../records/games/game-records-icons.css\" \"source/stylesheets/game-records-icons.css\""
                         }
                     }
                     sh """
