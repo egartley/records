@@ -40,11 +40,11 @@ pipeline {
                     }
                     sh """
                         git checkout -b jenkins-${now}
-                        cp \"../records/${params.RECORDTYPE}/${params.RECORDTYPE}.html\" \"_pages/records/${params.RECORDTYPE}.html\"
+                        cp \"../records/${params.RECORDTYPE}/${params.RECORDTYPE}.html\" \"source/records/${params.RECORDTYPE}.html\"
                     """
                     script {
                         if (params.RECORDTYPE == "games") {
-                            sh "cp \"../records/games/game-records-icons.css\" \"resources/css/rLzoDOi3W5sFgVCX/game-records-icons.css\""
+                            sh "cp \"../records/games/game-records-icons.css\" \"stylesheets/game-records-icons.css\""
                         }
                     }
                     sh """
