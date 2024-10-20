@@ -40,7 +40,7 @@ pipeline {
                     }
                     sh """
                         git checkout -b jenkins-${now}
-                        cp \"../records/${params.RECORDTYPE}/${params.RECORDTYPE}.html\" \"source/records/${params.RECORDTYPE}.html\"
+                        cp \"../records/${params.RECORDTYPE}/${params.RECORDTYPE}.html\" \"source/records/${params.RECORDTYPE}.html.erb\"
                     """
                     script {
                         if (params.RECORDTYPE == "games") {
